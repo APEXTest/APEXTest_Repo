@@ -5,33 +5,28 @@
     {
       "docset_name": "APEX_Test",
       "build_source_folder": "APEXTest/CATSTesting",
-      "build_output_subfolder": "APEXTest/CATSTesting",
+      "build_output_subfolder": "APEX_Test",
       "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
+      "monikers": [],
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
-  "notification_subscribers": "",
+  "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": true,
+  "need_preview_pull_request": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "APEXTest/CATSTesting",
-      "url": "https://github.com/ApexTest/CATSTesting",
       "branch": "master",
       "branch_mapping": {}
     }
