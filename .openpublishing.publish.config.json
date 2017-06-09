@@ -4,8 +4,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "APEX_Test",
-      "build_source_folder": "TestFile",
-      "build_output_subfolder": "APEX_Test/TestFile",
+      "build_source_folder": "APEXTest/CATSTesting",
+      "build_output_subfolder": "APEXTest/CATSTesting",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
