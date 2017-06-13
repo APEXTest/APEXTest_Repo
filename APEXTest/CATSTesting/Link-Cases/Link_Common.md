@@ -28,12 +28,12 @@
 [VaildInternalBookMark]: #BookMarkTarget
 [InvaildInternalBookMark]: #UnavaliableBookMark 
 
-[VaildExternalBookMark]: https://www.google.com#sbtc  
-[InvaildExternalBookMark]: https://www.google.com#UnavaliableBookMark  
+[VaildExternalBookMark]: https://www.google.com#sbtc  <br />
+[InvaildExternalBookMark]: https://www.google.com#UnavaliableBookMark  <br />
 
 
-[InvaildExternalBookMark](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) 
-[InvaildExternalBookMark2](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) 
+[InvaildExternalBookMark](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) <br />
+[InvaildExternalBookMark2](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) <br />
 
 [TestGood](https://review.docs.microsoft.com/en-us/bot-framework/bot-design-principles#designing-a-bot)
 

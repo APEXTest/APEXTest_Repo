@@ -1,6 +1,6 @@
 ---
 # required metadata
-title: This topic provides a description of Anomaly detection policies, title is more than 83 charator | Microsoft Docs
+title: Images | Microsoft Docs
 description: This topic provides a description of Anomaly detection policies and provides reference informati on about the building blocks of an anomaly detection policy.
 keywords: list&meta
 author: Ruixiang

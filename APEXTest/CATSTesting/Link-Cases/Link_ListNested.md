@@ -23,12 +23,12 @@
 [InvaildInternalLink]: /123/456  
 [VaildExternalLink]: https://www.google.com/  
 [InvaildExternalLink]: https://www.google.com/404
-[VaildInternalBookMark]：#BookMarkTarget
+[VaildInternalBookMark]: #BookMarkTarget
 [InvaildInternalBookMark]: #UnavaliableBookMark 
 
 [VaildExternalBookMark]: https://www.google.com#sbtc  
 [InvaildExternalBookMark]: https://www.google.com#UnavaliableBookMark  
 
-[InvaildExternalBookMark](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) 
-[InvaildExternalBookMark2](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) 
-[TestGood](https://review.docs.microsoft.com/en-us/bot-framework/bot-design-principles#designing-a-bot)
+[InvaildExternalBookMark](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark)  <br />
+[InvaildExternalBookMark2](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark)  <br />
+[TestGood](https://review.docs.microsoft.com/en-us/bot-framework/bot-design-principles#designing-a-bot) <br />
