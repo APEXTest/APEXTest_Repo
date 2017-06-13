@@ -25,7 +25,7 @@ ms.suite: ems
 # Alert
 
 > [!NOTE] 
-> Sample Notification Message
+> Sample Notification Message1
 
 > [!WARNING] 
 > Sample Warning Message
