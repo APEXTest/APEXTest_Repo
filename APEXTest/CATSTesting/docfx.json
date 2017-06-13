@@ -17,10 +17,7 @@
     ],
     "resource": [
       {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
+        "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
         "exclude": [
           "**/obj/**",
           "**/includes/**"
@@ -29,7 +26,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path": "/openpublishing/test/breadcrumb.json"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "APEX_Test"
