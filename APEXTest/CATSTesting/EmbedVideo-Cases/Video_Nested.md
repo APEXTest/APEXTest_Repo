@@ -24,5 +24,13 @@
 
 ## video nest in code(only video)
 >```
->[!VIDEO https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4]
+><iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
 >``` 
+
+## video nest in Alert(video)
+> [!NOTE] 
+> [!VIDEO https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4]
+
+## video nest in Alert(iframe)
+> [!NOTE] 
+> <iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
