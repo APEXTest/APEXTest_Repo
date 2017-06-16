@@ -5,7 +5,7 @@
 #### [Alert-Nest](Alert-cases/Alert_Nested.md)
 #### [Alert-Common](Alert-cases/Alert_Common.md)
 #### [Alert-Reproduce]
-##### [1019571 EmptyAlert] (Alert-cases/Reproduce/1019571_EmptyAlert.md)
+##### [1019571 EmptyAlert](Alert-cases/Reproduce/1019571_EmptyAlert.md)
 ### [Code](CodeSnippet-Cases/Index.md)
 #### [CodeSnippet-Common](CodeSnippet-Cases/CodeSnippet_Common.md)
 #### [CodeSnippet-Nested](CodeSnippet-Cases/CodeSnippet_Nested.md)
