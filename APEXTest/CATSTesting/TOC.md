@@ -3,6 +3,7 @@
 ## [Test Files for CATS](index.md)
 ### [Alert](Alert-cases/Index.md)
 #### [Alert-Nest](Alert-cases/Alert_Nested.md)
+#### [Alert-Empty](Alert-cases/Alert_Empty.md)
 #### [Alert-Common](Alert-cases/Alert_Common.md)
 ### [Code](CodeSnippet-Cases/Index.md)
 #### [CodeSnippet-Common](CodeSnippet-Cases/CodeSnippet_Common.md)
