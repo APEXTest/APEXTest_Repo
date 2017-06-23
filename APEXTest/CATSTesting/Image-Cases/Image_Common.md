@@ -120,7 +120,11 @@ ms.suite: ems
 > <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "1860" height ="1245"/>
 
 ## Image as link text 
-[![VSTS1](./../Reference-Files/Images/flower.jpg)](./../Reference-Files/Images/gif.gif)
+[![Image](./../Reference-Files/Images/flower.jpg)](./../Reference-Files/Images/gif.gif)
+
+[![Internallink](./../Reference-Files/Images/flower.jpg)](./../Image-Cases/index.md)
+
+[![ExternalLink](./../Reference-Files/Images/flower.jpg)](http://www.baidu.com/)
 
 [comment]: <> (![INT access rules (inbound)](./../Reference-Files/Images/flower.png))
 [comment]: <> (![INT access rules (outbound)](./../Reference-Files/Images/flowerssss.png))
