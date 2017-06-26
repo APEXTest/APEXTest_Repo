@@ -5,27 +5,37 @@
 #### [Alert-Nest](Alert-cases/Alert_Nested.md)
 #### [Alert-Empty](Alert-cases/Alert_Empty.md)
 #### [Alert-Common](Alert-cases/Alert_Common.md)
+
 ### [Code](CodeSnippet-Cases/Index.md)
 #### [CodeSnippet-Common](CodeSnippet-Cases/CodeSnippet_Common.md)
 #### [CodeSnippet-Nested](CodeSnippet-Cases/CodeSnippet_Nested.md)
+#### [CodeSnippet-Normal](CodeSnippet-Cases/CodeSnippet_Normal.md)
+
 ### [Common](Common-Cases/Index.md)
+
 ### [EmbedVideo](EmbedVideo-Cases/Index.md)
 #### [Video-Common](EmbedVideo-Cases/Video_Common.md)
 #### [Video-Nested](EmbedVideo-Cases/Video_Nested.md)
+
 ### [HTMLFormat](HTMLFormat-Cases/Index.md)
+
 ### [Image](Image-Cases/index.md)
 #### [Image-Common](Image-Cases/Image_Common.md)
+
 ### [Link](Link-Cases/Index.md)
 #### [Link-AlertNested](Link-Cases/Link_AlertNested.md)
 #### [Link-Common](Link-Cases/Link_Common.md)
 #### [Link-ListNested](Link-Cases/Link_ListNested.md)
+
 ### [List](List-Cases/Index.md)
 #### [List-common](List-Cases/List.md)
+
 ### [Metadata](Metadata-Cases/Index.md)
-### [Metadata-Common](Metadata-Cases/Meta.md)
+#### [Metadata-Common](Metadata-Cases/Meta.md)
 ### [PageWidth](PageWidth-Cases/Index.md)
 #### [Pagewidth-Common](PageWidth-Cases/Pagewidth.md)
 ### [SEORule](SEORule-Cases/Index.md)
+
 ### [Table](Table-Cases/Index.md)
 #### [Empty Cell](Table-Cases/Empty-Cells.md)
 #### [Empty Row or Column](Table-Cases/Empty-Row-or-Column.md)
@@ -35,6 +45,7 @@
 #### [Table Nest Links](Table-Cases/Table-Nest-Links.md)
 #### [Table Nest List](Table-Cases/Table-Nest-List.md)
 #### [Table Nest Video](Table-Cases/Table-Nest-Video.md)
+
 ### [TOC](TOC-Cases/index.md)
 #### [Dup TOC 1](TOC-Cases/BrokenTOC-dupTest.md)
 #### [TOC - 404](TOC-Cases/inde.md)
