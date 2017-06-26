@@ -1,7 +1,7 @@
 # Alert
 
 > [!NOTE] 
-> Sample Notification Message1
+> Sample Notification Message
 
 > [!WARNING] 
 > Sample Warning Message
