@@ -8,12 +8,14 @@ This page for testing page width.
 ### Greater width (External image)
 <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "1000" height ="645"/>
 
+## Video width
 ### Normal video width
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
 
 ### Greater width of video
 <iframe width="1420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
 
+## Code snippet width
 ### Normal code snippet with scrollbar
   ```
   On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
