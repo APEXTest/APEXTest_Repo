@@ -42,7 +42,16 @@ ms.suite: ems
 *   ```On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated```
 + 
 
-
+### Verify error when no indenting after "*"/"+"/"-" 
+* | Normal table | Description          |
+  | ------------- | ----------- |
+  | 1_Help      | Display the help window.|
+  | Close     | _Closes_ a window     |
+* b
+* | Normal table | Description          |
+  | ------------- | ----------- |
+  | 1_Help      | Display the help window.|
+  | Close     | _Closes_ a window     |
 
 ### Verify error when no indenting after "*"/"+"/"-" 
 * aaa
@@ -76,6 +85,11 @@ ms.suite: ems
 3. 
 4. cccc
 
+### Verify nested list
+1. aaa
+	* bbb
+	* eee
+	*  
 
 ### Verify list nested alert
 1. aaa
@@ -84,6 +98,20 @@ ms.suite: ems
 2. 
 2. bbb
 
+### Verify nested list
+1. aaa	
+* bbb	
+* eee	
+*  ![Flower](/Image/Flower.jpg)
+3. ccc
+	7. hhh
+	9. kkk
+	
+### Verify Image list
+1.  ![Flower](/Image/Flower.jpg)
+2. aaaa
+3. 
+4. cccc
 
 ### Verify alert nested list
 > [!TIP] 
@@ -92,7 +120,24 @@ ms.suite: ems
 >* bbb
 >* 
 
+### Verify list nested alert
+1. aaa
+	>3. > [!NOTE] 
+		> Sample Notification Message
+	>2. > [!WARNING] 
+		> Sample Warning Message
+2. 
+2. bbb
 
+### Code snippet
+1. abc
+	>1. 
+		test1
+	>2. 
+		test2
+	>3. 
+
+2. abc
 
 ### Verify table nested list
 |Table nest List|Description|Supported templates|
