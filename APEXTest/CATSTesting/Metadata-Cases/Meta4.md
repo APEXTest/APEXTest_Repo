@@ -4,8 +4,14 @@
 title: This topic provides a description of Anomaly detection policies | Microsoft Docs
 description: This topic provides a description of Anomaly detection policies and provides reference informati on about the building blocks of an anomaly detection policy.
 ms.prod: article
-ms.service: article
-ms.technology: cloud-app-security
+ms.service: 
+ms.technology: 
+keywords: list&meta
+author: rkarlin
+ms.author: rkarlin
+manager: mbaldwin
+ms.date: 11/06/2016
+ms.topic: article
 
 # optional metadata
 
@@ -20,3 +26,5 @@ ms.suite: ems
 ---
 
 # Missing required metadata testing
+
+Ms.prod exist, but ms.technology not exist
