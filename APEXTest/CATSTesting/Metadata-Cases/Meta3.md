@@ -11,7 +11,7 @@ ms.date:
 ms.topic: 
 ms.prod: 
 ms.service: 
-ms.technology: cloud-app-security
+ms.technology: 
 
 # optional metadata
 
@@ -26,3 +26,7 @@ ms.suite: ems
 ---
 
 # Missing required metadata testing
+
+All required metadata are missing
+
+Neither ms.prod and ms.service not exist
