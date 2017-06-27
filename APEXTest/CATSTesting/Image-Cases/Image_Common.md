@@ -85,7 +85,7 @@ ms.suite: ems
 ## Image in alert no alt message
 > [!WARNING] 
 > ![I am flower][111]
-> [111]:(./../Reference-Files/Images/flower.jpg)
+> [111]:./../Reference-Files/Images/flower.jpg
 >  Text after Image
 
 ## External image
