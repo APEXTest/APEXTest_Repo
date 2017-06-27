@@ -29,4 +29,4 @@ ms.suite: ems
 
 All required metadata are missing
 
-Neither ms.prod and ms.service not exist
+Both ms.prod and ms.service not exist
