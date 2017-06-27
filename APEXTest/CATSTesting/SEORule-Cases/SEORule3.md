@@ -17,3 +17,5 @@ ms.suite: ems
 ---
 
 # SEO Rule testing
+
+Correct title format
