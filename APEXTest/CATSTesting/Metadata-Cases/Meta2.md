@@ -26,3 +26,5 @@ ms.suite: ems
 ---
 
 # Missing required metadata testing
+
+Both ms.service and ms.prod exist, the format of ms.date is not correct
