@@ -31,10 +31,20 @@
 #### [List-common](List-Cases/List.md)
 
 ### [Metadata](Metadata-Cases/Index.md)
-#### [Metadata-Common](Metadata-Cases/Meta.md)
+#### [Metadata-Missing(prod,service,title)](Metadata-Cases/Meta1.md)
+#### [Metadata-Incorrect value](Metadata-Cases/Meta2.md)
+#### [Metadata-All missing](Metadata-Cases/Meta3.md)
+#### [Metadata-Missing technology](Metadata-Cases/Meta4.md)
+#### [Metadata-Pass01](Metadata-Cases/Meta5.md)
+#### [Metadata-Pass02](Metadata-Cases/Meta6.md)
+
 ### [PageWidth](PageWidth-Cases/Index.md)
 #### [Pagewidth-Common](PageWidth-Cases/Pagewidth.md)
+
 ### [SEORule](SEORule-Cases/Index.md)
+#### [SEORule-Ending-fail](SEORule-Cases/SEORule1.md)
+#### [SEORule-Length-fail](SEORule-Cases/SEORule2.md)
+#### [SEORule-Pass](SEORule-Cases/SEORule3.md)
 
 ### [Table](Table-Cases/Index.md)
 #### [Empty Cell](Table-Cases/Empty-Cells.md)
