@@ -66,3 +66,5 @@
 #### [TOC test](TOC-Cases/TOCTest.md)
 ##### [Dup TOC 2](TOC-Cases/BrokenTOC-dupTest.md)
 #### [Dup TOC 3](TOC-Cases/BrokenTOC-dupTest.md)
+
+### [Switch tab test.md](Switch-tab-test.md.md)
