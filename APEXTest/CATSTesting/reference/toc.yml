@@ -1,0 +1,21 @@
+- uid: System.Action
+  name: System.Action
+  href: System.Action.yml
+  items:
+  - uid: System.Linq.Expressions.Expression
+    name: System.Linq.Expressions.Expression
+    href: System.Linq.Expressions.Expression.yml
+  - uid: System.String
+    name: System.String
+    href: System.String.yml
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  items:
+  - uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+    name: AdalError
+  - uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate
+    name: AuthenticationContextDelegate
+  - uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters
+    name: AuthenticationParameters
+  - uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+    name: AuthenticationStatus

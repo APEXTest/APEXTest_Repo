@@ -1,0 +1,1877 @@
+### YamlMime:ManagedReference
+items:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  id: AdalError
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  children:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AccessingWsMetadataExchangeFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AssemblyLoadFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationCanceled
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationUiFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthorityNotInValidList
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthorityValidationFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.CannotAccessUserInformation
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.CertificateKeySizeTooSmall
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.DuplicateQueryParameter
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.EmailAddressSuffixMismatch
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.EncodedTokenTooLong
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FailedToAcquireTokenSilently
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FailedToRefreshToken
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FederatedServiceReturnedError
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.GetUserNameFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProtocolLoginUrlNull
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProtocolMismatch
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProviderRequestFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IntegratedAuthFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidArgument
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidAuthorityType
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidCredentialType
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidOwnerWindowType
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidServiceUrl
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.MissingFederationMetadataUrl
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.MultipleTokensMatched
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NeedToSetCallbackUriAsLocalSetting
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NetworkNotAvailable
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NoDataFromSts
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ParsingWsMetadataExchangeFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ParsingWsTrustResponseFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.PasswordRequiredForManagedUserError
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ServiceReturnedError
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ServiceUnavailable
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.StsMetadataRequestFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.StsTokenRequestFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnauthorizedResponseExpected
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnauthorizedUserInformationAccess
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.Unknown
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnknownUser
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnknownUserType
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserInteractionRequired
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserMismatch
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserRealmDiscoveryFailed
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.WsTrustEndpointNotFoundInMetadataDocument
+  langs:
+  - csharp
+  - vb
+  name: AdalError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  type: Class
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AdalError
+    path: src/ADAL.Common/Constants.cs
+    startLine: 26
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nError code returned as a property in AdalException\r\n"
+  example: []
+  syntax:
+    content: public class AdalError
+    content.vb: Public Class AdalError
+  inheritance:
+  - System.Object
+  inheritedMembers:
+  - System.Object.ToString
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.Unknown
+  id: Unknown
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: Unknown
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.Unknown
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: Unknown
+    path: src/ADAL.Common/Constants.cs
+    startLine: 39
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUnknown error.\r\n"
+  example: []
+  syntax:
+    content: public const string Unknown
+    content.vb: Public Const Unknown As String = "unknown_error"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidArgument
+  id: InvalidArgument
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: InvalidArgument
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidArgument
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: InvalidArgument
+    path: src/ADAL.Common/Constants.cs
+    startLine: 44
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nInvalid argument.\r\n"
+  example: []
+  syntax:
+    content: public const string InvalidArgument
+    content.vb: Public Const InvalidArgument As String = "invalid_argument"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationFailed
+  id: AuthenticationFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AuthenticationFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthenticationFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 49
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAuthentication failed.\r\n"
+  example: []
+  syntax:
+    content: public const string AuthenticationFailed
+    content.vb: Public Const AuthenticationFailed As String = "authentication_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationCanceled
+  id: AuthenticationCanceled
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AuthenticationCanceled
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationCanceled
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthenticationCanceled
+    path: src/ADAL.Common/Constants.cs
+    startLine: 54
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAuthentication canceled.\r\n"
+  example: []
+  syntax:
+    content: public const string AuthenticationCanceled
+    content.vb: Public Const AuthenticationCanceled As String = "authentication_canceled"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnauthorizedResponseExpected
+  id: UnauthorizedResponseExpected
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UnauthorizedResponseExpected
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnauthorizedResponseExpected
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UnauthorizedResponseExpected
+    path: src/ADAL.Common/Constants.cs
+    startLine: 59
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUnauthorized response expected from resource server.\r\n"
+  example: []
+  syntax:
+    content: public const string UnauthorizedResponseExpected
+    content.vb: Public Const UnauthorizedResponseExpected As String = "unauthorized_response_expected"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthorityNotInValidList
+  id: AuthorityNotInValidList
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AuthorityNotInValidList
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthorityNotInValidList
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthorityNotInValidList
+    path: src/ADAL.Common/Constants.cs
+    startLine: 64
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\n'authority' is not in the list of valid addresses.\r\n"
+  example: []
+  syntax:
+    content: public const string AuthorityNotInValidList
+    content.vb: Public Const AuthorityNotInValidList As String = "authority_not_in_valid_list"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthorityValidationFailed
+  id: AuthorityValidationFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AuthorityValidationFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthorityValidationFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthorityValidationFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 69
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAuthority validation failed.\r\n"
+  example: []
+  syntax:
+    content: public const string AuthorityValidationFailed
+    content.vb: Public Const AuthorityValidationFailed As String = "authority_validation_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AssemblyLoadFailed
+  id: AssemblyLoadFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AssemblyLoadFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AssemblyLoadFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AssemblyLoadFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 74
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nLoading required assembly failed.\r\n"
+  example: []
+  syntax:
+    content: public const string AssemblyLoadFailed
+    content.vb: Public Const AssemblyLoadFailed As String = "assembly_load_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidOwnerWindowType
+  id: InvalidOwnerWindowType
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: InvalidOwnerWindowType
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidOwnerWindowType
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: InvalidOwnerWindowType
+    path: src/ADAL.Common/Constants.cs
+    startLine: 79
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nLoading required assembly failed.\r\n"
+  example: []
+  syntax:
+    content: public const string InvalidOwnerWindowType
+    content.vb: Public Const InvalidOwnerWindowType As String = "invalid_owner_window_type"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.MultipleTokensMatched
+  id: MultipleTokensMatched
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: MultipleTokensMatched
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.MultipleTokensMatched
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: MultipleTokensMatched
+    path: src/ADAL.Common/Constants.cs
+    startLine: 84
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nMultipleTokensMatched were matched.\r\n"
+  example: []
+  syntax:
+    content: public const string MultipleTokensMatched
+    content.vb: Public Const MultipleTokensMatched As String = "multiple_matching_tokens_detected"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidAuthorityType
+  id: InvalidAuthorityType
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: InvalidAuthorityType
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidAuthorityType
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: InvalidAuthorityType
+    path: src/ADAL.Common/Constants.cs
+    startLine: 89
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nInvalid authority type.\r\n"
+  example: []
+  syntax:
+    content: public const string InvalidAuthorityType
+    content.vb: Public Const InvalidAuthorityType As String = "invalid_authority_type"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidCredentialType
+  id: InvalidCredentialType
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: InvalidCredentialType
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidCredentialType
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: InvalidCredentialType
+    path: src/ADAL.Common/Constants.cs
+    startLine: 94
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nInvalid credential type.\r\n"
+  example: []
+  syntax:
+    content: public const string InvalidCredentialType
+    content.vb: Public Const InvalidCredentialType As String = "invalid_credential_type"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidServiceUrl
+  id: InvalidServiceUrl
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: InvalidServiceUrl
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.InvalidServiceUrl
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: InvalidServiceUrl
+    path: src/ADAL.Common/Constants.cs
+    startLine: 99
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nInvalid service URL.\r\n"
+  example: []
+  syntax:
+    content: public const string InvalidServiceUrl
+    content.vb: Public Const InvalidServiceUrl As String = "invalid_service_url"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FailedToAcquireTokenSilently
+  id: FailedToAcquireTokenSilently
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: FailedToAcquireTokenSilently
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FailedToAcquireTokenSilently
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: FailedToAcquireTokenSilently
+    path: src/ADAL.Common/Constants.cs
+    startLine: 104
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nfailed_to_acquire_token_silently.\r\n"
+  example: []
+  syntax:
+    content: public const string FailedToAcquireTokenSilently
+    content.vb: Public Const FailedToAcquireTokenSilently As String = "failed_to_acquire_token_silently"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.CertificateKeySizeTooSmall
+  id: CertificateKeySizeTooSmall
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: CertificateKeySizeTooSmall
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.CertificateKeySizeTooSmall
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: CertificateKeySizeTooSmall
+    path: src/ADAL.Common/Constants.cs
+    startLine: 109
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nCertificate key size too small.\r\n"
+  example: []
+  syntax:
+    content: public const string CertificateKeySizeTooSmall
+    content.vb: Public Const CertificateKeySizeTooSmall As String = "certificate_key_size_too_small"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProtocolLoginUrlNull
+  id: IdentityProtocolLoginUrlNull
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: IdentityProtocolLoginUrlNull
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProtocolLoginUrlNull
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: IdentityProtocolLoginUrlNull
+    path: src/ADAL.Common/Constants.cs
+    startLine: 114
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nIdentity protocol login URL Null.\r\n"
+  example: []
+  syntax:
+    content: public const string IdentityProtocolLoginUrlNull
+    content.vb: Public Const IdentityProtocolLoginUrlNull As String = "identity_protocol_login_url_null"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProtocolMismatch
+  id: IdentityProtocolMismatch
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: IdentityProtocolMismatch
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProtocolMismatch
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: IdentityProtocolMismatch
+    path: src/ADAL.Common/Constants.cs
+    startLine: 119
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nIdentity protocol mismatch.\r\n"
+  example: []
+  syntax:
+    content: public const string IdentityProtocolMismatch
+    content.vb: Public Const IdentityProtocolMismatch As String = "identity_protocol_mismatch"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.EmailAddressSuffixMismatch
+  id: EmailAddressSuffixMismatch
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: EmailAddressSuffixMismatch
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.EmailAddressSuffixMismatch
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: EmailAddressSuffixMismatch
+    path: src/ADAL.Common/Constants.cs
+    startLine: 124
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nEmail address suffix mismatch.\r\n"
+  example: []
+  syntax:
+    content: public const string EmailAddressSuffixMismatch
+    content.vb: Public Const EmailAddressSuffixMismatch As String = "email_address_suffix_mismatch"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProviderRequestFailed
+  id: IdentityProviderRequestFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: IdentityProviderRequestFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IdentityProviderRequestFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: IdentityProviderRequestFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 129
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nIdentity provider request failed.\r\n"
+  example: []
+  syntax:
+    content: public const string IdentityProviderRequestFailed
+    content.vb: Public Const IdentityProviderRequestFailed As String = "identity_provider_request_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.StsTokenRequestFailed
+  id: StsTokenRequestFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: StsTokenRequestFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.StsTokenRequestFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: StsTokenRequestFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 134
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nSTS token request failed.\r\n"
+  example: []
+  syntax:
+    content: public const string StsTokenRequestFailed
+    content.vb: Public Const StsTokenRequestFailed As String = "sts_token_request_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.EncodedTokenTooLong
+  id: EncodedTokenTooLong
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: EncodedTokenTooLong
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.EncodedTokenTooLong
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: EncodedTokenTooLong
+    path: src/ADAL.Common/Constants.cs
+    startLine: 139
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nEncoded token too long.\r\n"
+  example: []
+  syntax:
+    content: public const string EncodedTokenTooLong
+    content.vb: Public Const EncodedTokenTooLong As String = "encoded_token_too_long"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ServiceUnavailable
+  id: ServiceUnavailable
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: ServiceUnavailable
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ServiceUnavailable
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: ServiceUnavailable
+    path: src/ADAL.Common/Constants.cs
+    startLine: 144
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nService unavailable.\r\n"
+  example: []
+  syntax:
+    content: public const string ServiceUnavailable
+    content.vb: Public Const ServiceUnavailable As String = "service_unavailable"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ServiceReturnedError
+  id: ServiceReturnedError
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: ServiceReturnedError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ServiceReturnedError
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: ServiceReturnedError
+    path: src/ADAL.Common/Constants.cs
+    startLine: 149
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nService returned error.\r\n"
+  example: []
+  syntax:
+    content: public const string ServiceReturnedError
+    content.vb: Public Const ServiceReturnedError As String = "service_returned_error"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FederatedServiceReturnedError
+  id: FederatedServiceReturnedError
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: FederatedServiceReturnedError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FederatedServiceReturnedError
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: FederatedServiceReturnedError
+    path: src/ADAL.Common/Constants.cs
+    startLine: 154
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nFederated service returned error.\r\n"
+  example: []
+  syntax:
+    content: public const string FederatedServiceReturnedError
+    content.vb: Public Const FederatedServiceReturnedError As String = "federated_service_returned_error"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.StsMetadataRequestFailed
+  id: StsMetadataRequestFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: StsMetadataRequestFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.StsMetadataRequestFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: StsMetadataRequestFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 159
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nSTS metadata request failed.\r\n"
+  example: []
+  syntax:
+    content: public const string StsMetadataRequestFailed
+    content.vb: Public Const StsMetadataRequestFailed As String = "sts_metadata_request_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NoDataFromSts
+  id: NoDataFromSts
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: NoDataFromSts
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NoDataFromSts
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: NoDataFromSts
+    path: src/ADAL.Common/Constants.cs
+    startLine: 164
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nNo data from STS.\r\n"
+  example: []
+  syntax:
+    content: public const string NoDataFromSts
+    content.vb: Public Const NoDataFromSts As String = "no_data_from_sts"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserMismatch
+  id: UserMismatch
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UserMismatch
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserMismatch
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UserMismatch
+    path: src/ADAL.Common/Constants.cs
+    startLine: 169
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUser Mismatch.\r\n"
+  example: []
+  syntax:
+    content: public const string UserMismatch
+    content.vb: Public Const UserMismatch As String = "user_mismatch"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnknownUserType
+  id: UnknownUserType
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UnknownUserType
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnknownUserType
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UnknownUserType
+    path: src/ADAL.Common/Constants.cs
+    startLine: 174
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUnknown User Type.\r\n"
+  example: []
+  syntax:
+    content: public const string UnknownUserType
+    content.vb: Public Const UnknownUserType As String = "unknown_user_type"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnknownUser
+  id: UnknownUser
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UnknownUser
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnknownUser
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UnknownUser
+    path: src/ADAL.Common/Constants.cs
+    startLine: 179
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUnknown User.\r\n"
+  example: []
+  syntax:
+    content: public const string UnknownUser
+    content.vb: Public Const UnknownUser As String = "unknown_user"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserRealmDiscoveryFailed
+  id: UserRealmDiscoveryFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UserRealmDiscoveryFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserRealmDiscoveryFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UserRealmDiscoveryFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 184
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUser Realm Discovery Failed.\r\n"
+  example: []
+  syntax:
+    content: public const string UserRealmDiscoveryFailed
+    content.vb: Public Const UserRealmDiscoveryFailed As String = "user_realm_discovery_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AccessingWsMetadataExchangeFailed
+  id: AccessingWsMetadataExchangeFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AccessingWsMetadataExchangeFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AccessingWsMetadataExchangeFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AccessingWsMetadataExchangeFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 189
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAccessing WS Metadata Exchange Failed.\r\n"
+  example: []
+  syntax:
+    content: public const string AccessingWsMetadataExchangeFailed
+    content.vb: Public Const AccessingWsMetadataExchangeFailed As String = "accessing_ws_metadata_exchange_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ParsingWsMetadataExchangeFailed
+  id: ParsingWsMetadataExchangeFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: ParsingWsMetadataExchangeFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ParsingWsMetadataExchangeFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: ParsingWsMetadataExchangeFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 194
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nParsing WS Metadata Exchange Failed.\r\n"
+  example: []
+  syntax:
+    content: public const string ParsingWsMetadataExchangeFailed
+    content.vb: Public Const ParsingWsMetadataExchangeFailed As String = "parsing_ws_metadata_exchange_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.WsTrustEndpointNotFoundInMetadataDocument
+  id: WsTrustEndpointNotFoundInMetadataDocument
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: WsTrustEndpointNotFoundInMetadataDocument
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.WsTrustEndpointNotFoundInMetadataDocument
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: WsTrustEndpointNotFoundInMetadataDocument
+    path: src/ADAL.Common/Constants.cs
+    startLine: 199
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nWS-Trust Endpoint Not Found in Metadata Document.\r\n"
+  example: []
+  syntax:
+    content: public const string WsTrustEndpointNotFoundInMetadataDocument
+    content.vb: Public Const WsTrustEndpointNotFoundInMetadataDocument As String = "wstrust_endpoint_not_found"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ParsingWsTrustResponseFailed
+  id: ParsingWsTrustResponseFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: ParsingWsTrustResponseFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.ParsingWsTrustResponseFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: ParsingWsTrustResponseFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 204
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nParsing WS-Trust Response Failed.\r\n"
+  example: []
+  syntax:
+    content: public const string ParsingWsTrustResponseFailed
+    content.vb: Public Const ParsingWsTrustResponseFailed As String = "parsing_wstrust_response_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NetworkNotAvailable
+  id: NetworkNotAvailable
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: NetworkNotAvailable
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NetworkNotAvailable
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: NetworkNotAvailable
+    path: src/ADAL.Common/Constants.cs
+    startLine: 209
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nThe request could not be preformed because the network is down.\r\n"
+  example: []
+  syntax:
+    content: public const string NetworkNotAvailable
+    content.vb: Public Const NetworkNotAvailable As String = "network_not_available"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationUiFailed
+  id: AuthenticationUiFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: AuthenticationUiFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.AuthenticationUiFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthenticationUiFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 214
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nThe request could not be preformed because of an unknown failure in the UI flow.\r\n"
+  example: []
+  syntax:
+    content: public const string AuthenticationUiFailed
+    content.vb: Public Const AuthenticationUiFailed As String = "authentication_ui_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserInteractionRequired
+  id: UserInteractionRequired
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UserInteractionRequired
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UserInteractionRequired
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UserInteractionRequired
+    path: src/ADAL.Common/Constants.cs
+    startLine: 223
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nOne of two conditions was encountered.\r\n1. The PromptBehavior.Never flag was passed and but the constraint could not be honored \r\n   because user interaction was required.\r\n2. An error occurred during a silent web authentication that prevented the authentication\r\n   flow from completing in a short enough time frame.\r\n"
+  example: []
+  syntax:
+    content: public const string UserInteractionRequired
+    content.vb: Public Const UserInteractionRequired As String = "user_interaction_required"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.PasswordRequiredForManagedUserError
+  id: PasswordRequiredForManagedUserError
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: PasswordRequiredForManagedUserError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.PasswordRequiredForManagedUserError
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: PasswordRequiredForManagedUserError
+    path: src/ADAL.Common/Constants.cs
+    startLine: 228
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nPassword is required for managed user.\r\n"
+  example: []
+  syntax:
+    content: public const string PasswordRequiredForManagedUserError
+    content.vb: Public Const PasswordRequiredForManagedUserError As String = "password_required_for_managed_user"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.GetUserNameFailed
+  id: GetUserNameFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: GetUserNameFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.GetUserNameFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: GetUserNameFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 233
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nFailed to get user name.\r\n"
+  example: []
+  syntax:
+    content: public const string GetUserNameFailed
+    content.vb: Public Const GetUserNameFailed As String = "get_user_name_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.MissingFederationMetadataUrl
+  id: MissingFederationMetadataUrl
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: MissingFederationMetadataUrl
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.MissingFederationMetadataUrl
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: MissingFederationMetadataUrl
+    path: src/ADAL.Common/Constants.cs
+    startLine: 238
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nFederation Metadata Url is missing for federated user.\r\n"
+  example: []
+  syntax:
+    content: public const string MissingFederationMetadataUrl
+    content.vb: Public Const MissingFederationMetadataUrl As String = "missing_federation_metadata_url"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FailedToRefreshToken
+  id: FailedToRefreshToken
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: FailedToRefreshToken
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.FailedToRefreshToken
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: FailedToRefreshToken
+    path: src/ADAL.Common/Constants.cs
+    startLine: 243
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nFailed to refresh token.\r\n"
+  example: []
+  syntax:
+    content: public const string FailedToRefreshToken
+    content.vb: Public Const FailedToRefreshToken As String = "failed_to_refresh_token"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IntegratedAuthFailed
+  id: IntegratedAuthFailed
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: IntegratedAuthFailed
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.IntegratedAuthFailed
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: IntegratedAuthFailed
+    path: src/ADAL.Common/Constants.cs
+    startLine: 248
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nIntegrated authentication failed. You may try an alternative authentication method.\r\n"
+  example: []
+  syntax:
+    content: public const string IntegratedAuthFailed
+    content.vb: Public Const IntegratedAuthFailed As String = "integrated_authentication_failed"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.DuplicateQueryParameter
+  id: DuplicateQueryParameter
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: DuplicateQueryParameter
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.DuplicateQueryParameter
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.Common/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: DuplicateQueryParameter
+    path: src/ADAL.Common/Constants.cs
+    startLine: 253
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nDuplicate query parameter in extraQueryParameters\r\n"
+  example: []
+  syntax:
+    content: public const string DuplicateQueryParameter
+    content.vb: Public Const DuplicateQueryParameter As String = "duplicate_query_parameter"
+  platform:
+  - net40
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnauthorizedUserInformationAccess
+  id: UnauthorizedUserInformationAccess
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: UnauthorizedUserInformationAccess
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.UnauthorizedUserInformationAccess
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: UnauthorizedUserInformationAccess
+    path: src/ADAL.CommonWinRT/Constants.cs
+    startLine: 30
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nUnauthorized user information access\r\n"
+  example: []
+  syntax:
+    content: public const string UnauthorizedUserInformationAccess
+    content.vb: Public Const UnauthorizedUserInformationAccess As String = Nothing
+  platform:
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.CannotAccessUserInformation
+  id: CannotAccessUserInformation
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: CannotAccessUserInformation
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.CannotAccessUserInformation
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: CannotAccessUserInformation
+    path: src/ADAL.CommonWinRT/Constants.cs
+    startLine: 35
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nCannot access user information\r\n"
+  example: []
+  syntax:
+    content: public const string CannotAccessUserInformation
+    content.vb: Public Const CannotAccessUserInformation As String = Nothing
+  platform:
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NeedToSetCallbackUriAsLocalSetting
+  id: NeedToSetCallbackUriAsLocalSetting
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  langs:
+  - csharp
+  - vb
+  name: NeedToSetCallbackUriAsLocalSetting
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.NeedToSetCallbackUriAsLocalSetting
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/Constants.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: NeedToSetCallbackUriAsLocalSetting
+    path: src/ADAL.CommonWinRT/Constants.cs
+    startLine: 40
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nNeed to set callback uri as local setting\r\n"
+  example: []
+  syntax:
+    content: public const string NeedToSetCallbackUriAsLocalSetting
+    content.vb: Public Const NeedToSetCallbackUriAsLocalSetting As String = Nothing
+  platform:
+  - sl
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+references:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory
+- uid: System.Object
+  parent: System
+  isExternal: true
+  name: Object
+  fullName: System.Object
+- uid: System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  name: ToString()
+  fullName: System.Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    fullName: System.Object.ToString
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    fullName: System.Object.ToString
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+- uid: System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  name: Equals(Object)
+  fullName: System.Object.Equals(System.Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    fullName: System.Object.Equals
+    isExternal: true
+  - name: (
+    fullName: (
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    fullName: System.Object.Equals
+    isExternal: true
+  - name: (
+    fullName: (
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    fullName: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  name: Equals(Object, Object)
+  fullName: System.Object.Equals(System.Object, System.Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    fullName: System.Object.Equals
+    isExternal: true
+  - name: (
+    fullName: (
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    fullName: System.Object.Equals
+    isExternal: true
+  - name: (
+    fullName: (
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    fullName: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  name: ReferenceEquals(Object, Object)
+  fullName: System.Object.ReferenceEquals(System.Object, System.Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    fullName: System.Object.ReferenceEquals
+    isExternal: true
+  - name: (
+    fullName: (
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    fullName: System.Object.ReferenceEquals
+    isExternal: true
+  - name: (
+    fullName: (
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    fullName: )
+- uid: System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  name: GetHashCode()
+  fullName: System.Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    fullName: System.Object.GetHashCode
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    fullName: System.Object.GetHashCode
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+- uid: System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  name: GetType()
+  fullName: System.Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    fullName: System.Object.GetType
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    fullName: System.Object.GetType
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+- uid: System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  name: MemberwiseClone()
+  fullName: System.Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    fullName: System.Object.MemberwiseClone
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    fullName: System.Object.MemberwiseClone
+    isExternal: true
+  - name: (
+    fullName: (
+  - name: )
+    fullName: )
+- uid: System
+  isExternal: false
+  name: System
+  fullName: System

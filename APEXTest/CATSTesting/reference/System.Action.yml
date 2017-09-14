@@ -1,0 +1,28 @@
+### YamlMime:ManagedReference
+items:
+- uid: System.Action
+  id: Action
+  parent: System
+  children: []
+  name: Action
+  fullName: System.Action
+  type: Delegate
+  source:
+    remote:
+      path: src/mscorlib/src/System/Action.cs
+      branch: master
+      repo: https://github.com/dotnet/coreclr.git
+    path: src/mscorlib/src/System/Action.cs
+    startLine: 15
+  assemblies:
+  - System.Runtime
+  namespace: System
+  summary: Encapsulates a method that has no parameters and does not return a value.
+  syntax:
+    content: public delegate void Action();
+    content.vb: Public Delegate Sub Action
+references:
+- uid: System
+  isExternal: false
+  name: System
+  fullName: System

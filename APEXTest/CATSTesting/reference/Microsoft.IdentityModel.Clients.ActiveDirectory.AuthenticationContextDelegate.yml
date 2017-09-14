@@ -1,0 +1,51 @@
+### YamlMime:ManagedReference
+items:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate
+  id: AuthenticationContextDelegate
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  children: []
+  langs:
+  - csharp
+  - vb
+  name: AuthenticationContextDelegate
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate
+  type: Delegate
+  source:
+    remote:
+      path: src/ADAL.WinPhone/AuthenticationContext.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthenticationContextDelegate
+    path: src/ADAL.WinPhone/AuthenticationContext.cs
+    startLine: 34
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nOptional delegate that can be defined by the developer to process the result of acquire token requests.\r\n"
+  example: []
+  syntax:
+    content: public delegate void AuthenticationContextDelegate(AuthenticationResult result);
+    content.vb: Public Delegate Sub AuthenticationContextDelegate(result As AuthenticationResult)
+    parameters:
+    - id: result
+      type: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationResult
+      description: Authentication result instance received from acquire token call
+  platform:
+  - sl
+  - wp8
+  modifiers.csharp:
+  - public
+  - delegate
+  modifiers.vb:
+  - Public
+  - Delegate
+references:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationResult
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: AuthenticationResult
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationResult

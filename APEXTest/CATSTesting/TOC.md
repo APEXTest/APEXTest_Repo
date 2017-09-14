@@ -64,3 +64,13 @@
 #### [TOC test](TOC-Cases/TOCTest.md)
 ##### [Dup TOC 2](TOC-Cases/BrokenTOC-dupTest.md)
 #### [Dup TOC 3](TOC-Cases/BrokenTOC-dupTest.md)
+
+## [Reference](./reference/index.md)
+### [ActiveDirectory](reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
+### [Small (System.Action)](reference/System.Action.yml)
+### [Large (Expression)](reference/System.Linq.Expressions.Expression.yml)
+### [Large (System.String)](reference/System.String.yml)
+## [Langpage-overview](./landingpage/overview.md)
+### [Langpage-overview](./landingpage/index.yml)
+## [hubpage-overview](hubpage/index.md)
+### [hubpage-msdn-overview](hubpage/msdn.md)

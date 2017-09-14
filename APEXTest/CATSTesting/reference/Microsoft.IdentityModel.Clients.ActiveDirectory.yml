@@ -1,0 +1,46 @@
+### YamlMime:ManagedReference
+items:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory
+  id: Microsoft.IdentityModel.Clients.ActiveDirectory
+  children:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  langs:
+  - csharp
+  - vb
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory
+  type: Namespace
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  platform:
+  - net40
+  - rt
+  - sl
+  - wp8
+references:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: AuthenticationParameters
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+  isExternal: false
+  name: AdalError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: AuthenticationStatus
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: AuthenticationContextDelegate
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate

@@ -1,0 +1,148 @@
+### YamlMime:ManagedReference
+items:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  id: AuthenticationStatus
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory
+  children:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.ClientError
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.ServiceError
+  - Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.Success
+  langs:
+  - csharp
+  - vb
+  name: AuthenticationStatus
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  type: Enum
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: AuthenticationStatus
+    path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+    startLine: 26
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nRepresents the outcome of one authentication operation.\r\n"
+  example: []
+  syntax:
+    content: public enum AuthenticationStatus
+    content.vb: Public Enum AuthenticationStatus
+  platform:
+  - rt
+  - sl
+  - wp8
+  modifiers.csharp:
+  - public
+  - enum
+  modifiers.vb:
+  - Public
+  - Enum
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.Success
+  id: Success
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  langs:
+  - csharp
+  - vb
+  name: Success
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.Success
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: Success
+    path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+    startLine: 31
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAuthentication Success.\r\n"
+  example: []
+  syntax:
+    content: Success = 0
+  platform:
+  - rt
+  - sl
+  - wp8
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.ClientError
+  id: ClientError
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  langs:
+  - csharp
+  - vb
+  name: ClientError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.ClientError
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: ClientError
+    path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+    startLine: 36
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAuthentication failed due to error on client side.\r\n"
+  example: []
+  syntax:
+    content: ClientError = -1
+  platform:
+  - rt
+  - sl
+  - wp8
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.ServiceError
+  id: ServiceError
+  parent: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
+  langs:
+  - csharp
+  - vb
+  name: ServiceError
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.ServiceError
+  type: Field
+  source:
+    remote:
+      path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+      branch: master
+      repo: https://github.com/AzureAD/azure-activedirectory-library-for-dotnet.git
+    id: ServiceError
+    path: src/ADAL.CommonWinRT/AuthenticationResult.cs
+    startLine: 41
+  assemblies:
+  - Microsoft.IdentityModel.Clients.ActiveDirectory
+  namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
+  summary: "\r\nAuthentication failed due to error returned by service.\r\n"
+  example: []
+  syntax:
+    content: ServiceError = -2
+  platform:
+  - rt
+  - sl
+  - wp8
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+references:
+- uid: Microsoft.IdentityModel.Clients.ActiveDirectory
+  isExternal: false
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  fullName: Microsoft.IdentityModel.Clients.ActiveDirectory
