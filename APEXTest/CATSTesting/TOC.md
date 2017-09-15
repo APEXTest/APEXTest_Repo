@@ -41,6 +41,7 @@
 #### [Metadata-Pass02](Metadata-Cases/Meta6.md)
 #### [MsTechnology_Notin_API](Metadata-Cases/Meta7.md)
 #### [Null-MsTechnology_in_API](Metadata-Cases/Meta8.md)
+#### [Null-MsTechnology&Notin_API](Metadata-Cases/Meta9.md)
 
 ### [PageWidth](PageWidth-Cases/Index.md)
 #### [Pagewidth-Common](PageWidth-Cases/Pagewidth.md)
