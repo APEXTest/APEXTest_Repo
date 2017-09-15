@@ -39,6 +39,7 @@
 #### [Metadata-Missing technology](Metadata-Cases/Meta4.md)
 #### [Metadata-Pass01](Metadata-Cases/Meta5.md)
 #### [Metadata-Pass02](Metadata-Cases/Meta6.md)
+#### [MsTechnology_Notin_API](Metadata-Cases/Meta7.md)
 
 ### [PageWidth](PageWidth-Cases/Index.md)
 #### [Pagewidth-Common](PageWidth-Cases/Pagewidth.md)
