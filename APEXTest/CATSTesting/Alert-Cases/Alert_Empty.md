@@ -14,7 +14,7 @@
 > [!NOTE]
 ><tr></tr>
 
-## Empty Alert with only 1 <tr>
+## Empty Alert with only 1 '<tr>'
 > [!NOTE]
 ><tr>
 
