@@ -14,15 +14,15 @@
 > [!NOTE]
 ><tr></tr>
 
-## Empty Alert with only 1 '<tr>'
+## Empty Alert with only 1 `<tr>`
 > [!NOTE]
 ><tr>
 
-## Empty Alert with <td>
+## Empty Alert with `<td>`
 > [!NOTE]
 ><td></td>
 
-## Empty Alert with <b>
+## Empty Alert with `<b>`
 > [!NOTE]
 ><b></b>
 
