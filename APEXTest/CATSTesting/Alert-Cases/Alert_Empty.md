@@ -39,10 +39,10 @@
 > [!WARNING] 
 ><a></a>
 
-## Empty Alert with `<a>`
+## Empty Alert with `<img>`
 > [!WARNING] 
 ><img></img>
 
-## Empty Alert with `<a>`
+## Empty Alert with `<iframe>`
 > [!WARNING] 
 ><iframe></iframe>
