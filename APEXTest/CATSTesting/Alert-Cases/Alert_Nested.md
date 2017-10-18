@@ -3,7 +3,7 @@
 ## Alert with Link(Nest)
 
 > [!NOTE] 
-> Nest with External Link [baidu](http://www.baidu.com/) Nest with External Link 
+> Nest with External Link [baidu](http://www.baidu.com/) Nest with External Link. 
 
 > [!WARNING] 
 > [baidu](http://www.baidus.com/) Nest with invalid External Link 
