@@ -1,6 +1,4 @@
 {
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "APEX_Test",
@@ -8,7 +6,6 @@
       "build_output_subfolder": "APEX_Test",
       "locale": "en-us",
       "monikers": [],
-      "moniker_groups": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -17,7 +14,24 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
+      "moniker_groups": [],
       "version": 0
+    },
+    {
+      "docset_name": "Comparision_Testing",
+      "build_source_folder": "APEXTest/ComparisionTesting",
+      "build_output_subfolder": "Comparision_Testing",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [
@@ -35,5 +49,7 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
