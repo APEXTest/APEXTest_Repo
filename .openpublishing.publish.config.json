@@ -18,6 +18,39 @@
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "version": 0
+    }, {
+      "docset_name": "Comparision_Testing",
+      "build_source_folder": "APEXTest/ComparisionTesting",
+      "build_output_subfolder": "APEXTest/ComparisionTesting",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_groups": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
+    },
+     {
+      "docset_name": "Comparision_Testing_Expected",
+      "build_source_folder": "APEXTest/ComparisionTestingExpect",
+      "build_output_subfolder": "APEXTest/ComparisionTestingExpect",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_groups": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [
