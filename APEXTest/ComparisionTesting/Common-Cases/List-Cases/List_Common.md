@@ -24,7 +24,6 @@
 
 ### List with empty
 * aaa8
-* 
 * ccc8
 
 ## Ordered list
