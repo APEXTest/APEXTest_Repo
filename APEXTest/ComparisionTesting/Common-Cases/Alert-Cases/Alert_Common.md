@@ -13,7 +13,7 @@
 > Sample Important Message
 
 > [!CAUTION] 
-> Sample Caution Message
+> Sample Caution Messages
 
 
 ## Alert without message
