@@ -34,3 +34,9 @@
 | ------------- | ----------- |
 | row1 value1-6      | row1 value2-6|
 | row2 value1-6     | row2 value2-6 |
+
+## Normal table7
+| Column1-7 | Column2-7          |
+| ------------- | ----------- |
+| row1 value1-7      | row1 value2-7|
+| row2 value1-7     | row2 value2-7 |

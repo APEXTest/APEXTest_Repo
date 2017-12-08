@@ -36,3 +36,15 @@
 | row1 value1-6 | row1 value2-6|row1 value3-6|
 | row2 value1-6| row2 value2-6 |row2 value3-6|
 | row3 value1-6| row3 value2-6 |row3 value3-6|
+
+## Normal table7
+<table></table>
+
+## Extra table8 with content
+| Column1-8 | Column2-8          |
+| ------------- | ----------- |
+| row1 value1-8      | row1 value2-8|
+| row2 value1-8     | row2 value2-8 |
+
+## Extra table9 with no row/column
+<table></table>
