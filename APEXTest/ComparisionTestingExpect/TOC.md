@@ -27,6 +27,7 @@
 
 ## [Table](Common-Cases/Table-Cases/Index.md)
 ### [Table_Common](Common-Cases/Table-Cases/Table_Common.md)
+### [Table_Merged](Common-Cases/Table-Cases/Table_Merged.md)
 
 ## [TOC](Common-Cases/TOC-Cases/Index.md)
 ### [TOC_Common](Common-Cases/TOC-Cases/TOC_Common.md)
