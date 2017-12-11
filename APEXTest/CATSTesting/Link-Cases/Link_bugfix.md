@@ -1,5 +1,9 @@
 # Test file for link bug fixing
 
+
+## Empty link
+[Here is my text]()
+
 ## Bug 1045193
 [http://www.linkedin.com/in/alexandair](http://www.linkedin.com/in/alexandair) </br>
 [https://portal.office.com/](https://portal.office.com/) </br>
