@@ -12,6 +12,7 @@
 
 ## [Content](Common-Cases/Content-Cases/Index.md)
 ### [Content_Common](Common-Cases/Content-Cases/Content_Common.md)
+### [Content_Common](Common-Cases/Content-Cases/Content_NestLink_Is_Missing.md)
 
 ## [Heading](Common-Cases/Heading-Cases/Index.md)
 ### [Heading_Common](Common-Cases/Heading-Cases/Heading_Common.md)

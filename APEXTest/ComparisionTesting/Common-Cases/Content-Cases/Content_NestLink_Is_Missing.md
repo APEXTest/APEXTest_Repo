@@ -1,4 +1,5 @@
 ---
+title: "What&#39;s New in Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/24/2017"
 ms.prod: "analysis-services"
@@ -59,7 +60,7 @@ In this lab, you'll create and monitor Extended Events (xEvents), upgrade a tabu
 ### Improved modeling performance for tabular 1200 models    
 For tabular 1200 models,  metadata operations in SSDT are much faster than tabular 1100 or 1103 models. By comparison, on the same hardware, creating a relationship on a model set to the SQL Server 2014 compatibility level (1103) with 23 tables takes 3 seconds, whereas the same relationship on a model created set to compatibility level 1200 takes just under a second.    
 ### Project templates added for tabular 1200 models in SSDT    
-With this release, you no longer need two versions of SSDT for building relational and BI projects. [SQL Server Data Tools for Visual Studio 2015](http://msdn.microsoft.com/library/mt204009.aspx) adds project templates for Analysis Services solutions, including **Analysis Services Tabular Projects** used for building models at the 1200 compatibility level. Other Analysis Services project templates for multidimensional and data mining solutions are also included, but  at the same functional level (1100 or 1103) as in previous releases.    
+With this release, you no longer need two versions of SSDT for building relational and BI projects. adds project templates for Analysis Services solutions, including **Analysis Services Tabular Projects** used for building models at the 1200 compatibility level. Other Analysis Services project templates for multidimensional and data mining solutions are also included, but  at the same functional level (1100 or 1103) as in previous releases.    
 ### Display folders
 Display folders are now available for tabular 1200 models. Defined in SQL Server Data Tools and rendered in client applications like Excel or Power BI Desktop, display folders help you organize large numbers of measures into individual folders, adding a visual hierarchy for easier navigation in field lists.
 ### Bi-directional cross filtering
@@ -206,6 +207,4 @@ To learn more, see [DirectQuery Mode &#40;SSAS Tabular&#41;](../analysis-service
 [Analysis Services team blog](http://blogs.msdn.microsoft.com/analysisservices/)    
 [What's New in SQL Server 2016](../sql-server/what-s-new-in-sql-server-2016.md)    
      
-
-
 
