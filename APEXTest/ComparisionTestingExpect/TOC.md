@@ -28,6 +28,10 @@
 ## [Table](Common-Cases/Table-Cases/Index.md)
 ### [Table_Common](Common-Cases/Table-Cases/Table_Common.md)
 ### [Table_Merged](Common-Cases/Table-Cases/Table_Merged.md)
+### [Table_With_Alert](Common-Cases/Table-Cases/TableWithAlert.md)
+### [Table_With_Code](Common-Cases/Table-Cases/TableWithCode.md)
+### [Table_With_Image](Common-Cases/Table-Cases/TableWithImage.md)
+### [Table_With_List](Common-Cases/Table-Cases/TableWithList.md)
 
 ## [TOC](Common-Cases/TOC-Cases/Index.md)
 ### [TOC_Common](Common-Cases/TOC-Cases/TOC_Common.md)

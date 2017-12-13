@@ -114,3 +114,22 @@
         </tr>
     </tbody>
 </table>
+
+## Unmerged in base table7
+<table>
+    <thead>
+        <tr>
+            <th>Column1-7</th>
+            <th>Column2-7</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>row1 value1-7</td>
+            <td>row1 value2-7</td>
+        </tr>
+        <tr>
+            <td>row2 value1-7</td>
+        </tr>
+    </tbody>
+</table>
