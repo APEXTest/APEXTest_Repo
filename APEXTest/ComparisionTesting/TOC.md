@@ -27,7 +27,7 @@
 
 ## [Link](Common-Cases/Link-Cases/Index.md)
 ### [Link_Common](Common-Cases/Link-Cases/Link_Common.md)
-### [Link_Nested](Common-Cases/List-Cases/Link_Nested.md)
+### [Link_Nested](Common-Cases/Link-Cases/Link_Nested.md)
 
 ## [List](Common-Cases/List-Cases/Index.md)
 ### [List_Common](Common-Cases/List-Cases/List_Common.md)
