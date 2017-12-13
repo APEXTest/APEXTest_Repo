@@ -61,7 +61,7 @@
 
 ## [Title](Docs-Cases/Title-Cases/Index.md)
 ### [Title_Common](Docs-Cases/Title-Cases/Title_Common.md)
-### [Title_Common](Docs-Cases/Title-Cases/TitleIsMissing.md)
+### [Title is missing](Docs-Cases/Title-Cases/TitleIsMissing.md)
 
 
 
