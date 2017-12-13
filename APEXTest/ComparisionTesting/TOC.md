@@ -12,7 +12,7 @@
 
 ## [Content](Common-Cases/Content-Cases/Index.md)
 ### [Content_Common](Common-Cases/Content-Cases/Content_Common.md)
-### [Content_Common](Common-Cases/Content-Cases/Content_NestLink_Is_Missing.md)
+### [Content Nest Link Is Missing](Common-Cases/Content-Cases/Content_NestLink_Is_Missing.md)
 
 ## [Heading](Common-Cases/Heading-Cases/Index.md)
 ### [Heading_Common](Common-Cases/Heading-Cases/Heading_Common.md)
@@ -61,6 +61,7 @@
 
 ## [Title](Docs-Cases/Title-Cases/Index.md)
 ### [Title_Common](Docs-Cases/Title-Cases/Title_Common.md)
+### [Title_Common](Docs-Cases/Title-Cases/TitleIsMissing.md)
 
 
 
