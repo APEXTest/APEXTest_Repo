@@ -1,11 +1,9 @@
 # Table with alert
 ## Table1 with empty alert
+
 | Column1-1 | Column2-1 |
 | ------------- | ----------- |
-| 
-> [!NOTE] 
-> 
-| row1 value2-1|
+| > [!NOTE] | row1 value2-1|
 | row2 value1-1  | row2 value2-1 |
 
 ## Table2 with empty alert on base site
