@@ -38,17 +38,17 @@
 ## Table7 with non-empty code and same code snippet content and different other content
 | Column1-7 | Column2-7|
 | ------------- | ----------- |
-|aa-- [!Code-c[snippetGetActions_empty](.\..\Reference-Files\CodeSnippets\emptycode)|row1 value2-7|
+|aa-- [!Code-c[snippetGetActions_empty](.\..\Reference-Files\CodeSnippets\emptycode)]|row1 value2-7|
 | row2 value1-7  | row2 value2-7 |
 
 ## Table8 with non-empty code and different code snippet header and same other content
 | Column1-8 | Column2-8|
 | ------------- | ----------- |
-| aa [!Code-f[snippetGetActions_f](.\..\Reference-Files\CodeSnippets\code_test_fsharp.fs)| row1 value2-8|
+| aa [!Code-f[snippetGetActions_f](.\..\Reference-Files\CodeSnippets\code_test_fsharp.fs)]| row1 value2-8|
 | row2 value1-8  | row2 value2-8 |
 
 ## Table9 with non-empty code and different code snippet content and same other content
 | Column1-9 | Column2-9|
 | ------------- | ----------- |
-| aa[!Code-c[snippetGetActions_empty](.\..\Reference-Files\CodeSnippets\emptycode)| row1 value2-9|
+| aa[!Code-c[snippetGetActions_empty](.\..\Reference-Files\CodeSnippets\emptycode)]| row1 value2-9|
 | row2 value1-9  | row2 value2-9 |
