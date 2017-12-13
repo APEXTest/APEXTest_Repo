@@ -6,8 +6,6 @@
 
 ### The image displayed normal with no Alt text
   ![](./../Reference-Files/Images/flower.jpg)
-  ![](./../Reference-Files/Images/flower.jpg)
-  ![](./../Reference-Files/Images/flower.jpg)
     
 ### The image displayed normal with reference insert
   ![Flower][Flower]
@@ -16,7 +14,8 @@
 ### Empty image source
 ![flower]()
 
-> Missing an image
+### The normal image with too greater width (External image)
+<img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "860" height ="645"/>
 
 
 ### The normal image with nornal width (External image)
@@ -37,10 +36,10 @@
 > ![I am flower](./../Reference-Files/Images/flower.jpg "This is title")
 >  Text after Image
 
-## Different Source in alert
+## Image in alert no alt message
 > [!WARNING] 
-> ![](./../Reference-Files/Images/flowers.jpg)
->  Different Source in alert
+> ![](./../Reference-Files/Images/flower.jpg)
+>  Text after Image
 
 ## image in alert with no title
 > [!TIP] 
@@ -59,11 +58,11 @@
 > External image
 > <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "860" height ="645"/>
 
-## Different Source in alert
+## Image in list
 1. aaa
 	* bbb
 	* eee
-	*  ![Flower](./../Reference-Files/Images/flowers.jpg)
+	*  ![Flower](./../Reference-Files/Images/flower.jpg)
     
     
 ## image in list
@@ -71,15 +70,14 @@
 2. aaaa
 4. cccc
 
-## Different image
-> [!IMPORTANT] 
-> Different image
-> <img src="https://www.toutiao.com/i6419574220929368577/" width = "1860" height ="1245"/>
+### Error image in list
+1. ![Flower](./../Reference-Files/Images/flowers.jpg)
+2. bbb
 
-## Extra image
+## External image wider than main content 
 > [!IMPORTANT] 
-> Extra image
-> <img src="https://www.toutiao.com/i6419574220929368577/" width = "1860" height ="1245"/>
+> External image
+> <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "1860" height ="1245"/>
 
 ## Image as link text 
 [![Image](./../Reference-Files/Images/flower.jpg)](./../Reference-Files/Images/gif.gif)

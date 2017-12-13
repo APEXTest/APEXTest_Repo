@@ -17,3 +17,9 @@
 #### This is H4 Heading (3)
 ##### This is H5 Heading (3)
 ###### This is H6 Heading (3)
+
+## This is H2 Heading (4) 
+### This is H3 Heading (4)
+#### This is H4 Heading (4)
+##### This is H5 Heading (4)
+###### This is H6 Heading (4)

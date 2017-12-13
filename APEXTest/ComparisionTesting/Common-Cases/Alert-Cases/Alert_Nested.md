@@ -3,7 +3,7 @@
 ## Alert with Link(Nest)
 
 > [!NOTE] 
-> Nest with External Link [baidu](http://www.baidu.com/) Nest with External Link 
+> Nest with External Link [baidu](http://baidu.com/) Different 
 
 > [!WARNING] 
 > [baidu](http://www.baidus.com/) Nest with invalid External Link 
@@ -18,7 +18,8 @@
 > Nest with Internal Link [BookMark](#Alert without message)  
 
 ## Alert with Link only
-> [!WARNING] 
+> [!NOTE] 
+> Different alert **Note**
 > [baidu](http://www.baidus.com/) 
 
 ## Alert with Image
@@ -31,13 +32,11 @@
 > ![I am flower](./../Reference-Files/Images/flower.jpg "This is title")
 >  Text after Image
 
-> [!TIP] 
->  Text before Image 
-> ![I am flower](./../Reference-Files/Images/flower.jpg "This is title")
+> Missing alert **TIP**
 
 > [!IMPORTANT] 
-> External image
-> <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "860" height ="645"/>
+> Different image in alert
+> <img src="https://www.toutiao.com/i6419574220929368577/" width = "860" height ="645"/>
 
 > [!CAUTION] 
 > invalid Image source
@@ -63,7 +62,7 @@
 > [!NOTE] 
 >```
 > On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
-> On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated 
+> Different code
 >```
 
 ## Alert with code & text
@@ -78,7 +77,7 @@
 > [!WARNING] 
 > Bulleted list 
 >* aaa
->* bbb
+>* Different code
 >* ccc
 
 > [!TIP] 

@@ -1,5 +1,3 @@
-# This is H1 Heading Testing
-
 ## This is H2 Heading (1)
 ### This is H3 Heading (1)
 #### This is H4 Heading (1)
