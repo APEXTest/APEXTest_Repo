@@ -40,11 +40,38 @@
 ## Normal table7
 <table></table>
 
-## Extra table8 with content
-| Column1-8 | Column2-8          |
-| ------------- | ----------- |
-| row1 value1-8      | row1 value2-8|
-| row2 value1-8     | row2 value2-8 |
+## Empty table8
+<table></table>
 
-## Extra table9 with no row/column
+## Cell is empty in both table9
+| Column1-9 | Column2-9          |
+| ------------- | ----------- |
+|      |row1 value2-9 |
+| row2 value1-9    | row2 value2-9 |
+
+## Cell is empty only in base table10
+| Column1-10 | Column2-10          |
+| ------------- | ----------- |
+|  row1 value1-10   | row1 value2-10|
+| row2 value1-10   | row2 value2-10 |
+
+## Different content for first cell--table11
+| Column1-11- | Column2-11 |
+| ------------- | ----------- |
+|  row1 value1-11   | row1 value2-11|
+| row2 value1-11   | row2 value2-10 |
+
+## Different content for first cell other cell--table12
+| Column1-12- | Column2-12          |
+| ------------- | ----------- |
+|  row1 value1-12   | row1 value2-12-|
+| row2 value1-12   | row2 value2-12 |
+
+## Extra table13 with content
+| Column1-13 | Column2-13          |
+| ------------- | ----------- |
+| row1 value1-13      | row1 value2-13|
+| row2 value1-13     | row2 value2-13 |
+
+## Extra table14 with no row/column
 <table></table>
