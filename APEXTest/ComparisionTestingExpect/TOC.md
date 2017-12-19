@@ -12,6 +12,7 @@
 
 ## [Content](Common-Cases/Content-Cases/Index.md)
 ### [Content_Common](Common-Cases/Content-Cases/Content_Common.md)
+### [How to customize a Linux virtual machine on first boot](Common-Cases/Content-Cases/tutorial-automate-vm-deployment.md)
 
 ## [Heading](Common-Cases/Heading-Cases/Index.md)
 ### [Have_H1](Common-Cases/Heading-Cases/Have_H1.md)
