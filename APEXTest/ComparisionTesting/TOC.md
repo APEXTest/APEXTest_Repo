@@ -12,6 +12,7 @@
 
 ## [Content](Common-Cases/Content-Cases/Index.md)
 ### [Content_Common](Common-Cases/Content-Cases/Content_Common.md)
+### [How to customize a Linux virtual machine on first boot](Common-Cases/Content-Cases/tutorial-automate-vm-deployment.md)
 ### [Content Nest Link Is Missing](Common-Cases/Content-Cases/Content_NestLink_Is_Missing.md)
 
 ## [Heading](Common-Cases/Heading-Cases/Index.md)
