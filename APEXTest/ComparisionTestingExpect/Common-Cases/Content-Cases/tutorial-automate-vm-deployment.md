@@ -29,6 +29,21 @@ In a previous tutorial, you learned how to SSH to a virtual machine (VM) and man
 > * Use Key Vault to securely store certificates
 > * Automate secure deployments of NGINX with cloud-init
 
+> [!NOTE]
+> Note1 If the SDK doesn't provide the required functionality,
+> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
+
+> [!NOTE]
+> Note2 If the SDK doesn't provide the required functionality,
+> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
+
+> [!NOTE]
+> Note3 If the SDK doesn't provide the required functionality,
+> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
+
+> [!Warning]
+> Warning1 If the SDK doesn't provide the required functionality,
+> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
 
 If you choose to install and use the CLI locally, this tutorial requires that you are running the Azure CLI version 2.0.4 or later. Run `az --version` to find the version. If you need to install or upgrade, see [Install Azure CLI 2.0]( /cli/azure/install-azure-cli).  
 
@@ -41,14 +56,31 @@ Cloud-init also works across distributions. For example, you don't use **apt-get
 
 We are working with our partners to get cloud-init included and working in the images that they provide to Azure. The following table outlines the current cloud-init availability on Azure platform images:
 
-| Alias | Publisher | Offer | SKU | Version |
+| Table1 | Publisher | Offer | SKU | Version |
 |:--- |:--- |:--- |:--- |:--- |:--- |
 | UbuntuLTS |Canonical |UbuntuServer |16.04-LTS |latest |
 | UbuntuLTS |Canonical |UbuntuServer |14.04.5-LTS |latest |
 | CoreOS |CoreOS |CoreOS |Stable |latest |
 | | OpenLogic | CentOS | 7-CI | latest |
-| | RedHat | RHEL | 7-RAW-CI | latest
+| | RedHat | RHEL | 7-RAW-CI | latest |
 
+
+
+| Table2 | Publisher | Offer | SKU | Version |
+|:--- |:--- |:--- |:--- |:--- |:--- |
+| UbuntuLTS |Canonical |UbuntuServer |16.04-LTS |latest |
+| UbuntuLTS |Canonical |UbuntuServer |14.04.5-LTS |latest |
+| CoreOS |CoreOS |CoreOS |Stable |latest |
+| | OpenLogic | CentOS | 7-CI | latest |
+| | RedHat | RHEL | 7-RAW-CI | latest |
+
+| Table3 | Publisher | Offer | SKU | Version |
+|:--- |:--- |:--- |:--- |:--- |:--- |
+| UbuntuLTS |Canonical |UbuntuServer |16.04-LTS |latest |
+| UbuntuLTS |Canonical |UbuntuServer |14.04.5-LTS |latest |
+| CoreOS |CoreOS |CoreOS |Stable |latest |
+| | OpenLogic | CentOS | 7-CI | latest |
+| | RedHat | RHEL | 7-RAW-CI | latest |
 
 ## Create cloud-init config file
 To see cloud-init in action, create a VM that installs NGINX and runs a simple 'Hello World' Node.js app. The following cloud-init configuration installs the required packages, creates a Node.js app, then initialize and starts the app.

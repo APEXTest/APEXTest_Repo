@@ -31,9 +31,19 @@ In a previous tutorial,[testingggggggggggggggggggg] you learned how to SSH to a 
 > * [testingggggggggggggggggggg]
 
 > [!NOTE]
-> testinggggggggggggggg If the SDK doesn't provide the required functionality,
+> Note1 If the SDK doesn't provide the required functionality,
 > you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
-> 
+
+Note2 is missing
+
+> [!NOTE]
+> Note3 If the SDK doesn't provide the required functionality,
+> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
+
+> [!Warning]
+> Warning1 If the SDK doesn't provide the required functionality,
+> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
+
 
 If you choose to install and use the CLI locally, this tutorial requires that you are running the Azure CLI version 2.0.4 or later. Run `az --version` to find the version. If you need to install or upgrade, see [Install Azure CLI 2.0]( /cli/azure/install-azure-cli).  
 
@@ -45,27 +55,29 @@ If you choose to install and use the CLI locally, this tutorial requires that yo
 > * Automate secure deployments of NGINX with cloud-init
 
 ## Cloud-init overview
-[Cloud-init](https://cloudinit.readthedocs.io) is a widely used approach to customize a Linux VM as it boots for the first time. You can use cloud-init to install packages and write files, or to configure users and security. As cloud-init runs during the initial boot process, there are no additional steps or required agents to apply your configuration.
-
-Cloud-init also works across distributions. For example, you don't use **apt-get install** or **yum install** to install a package. Instead you can define a list of packages to install. Cloud-init automatically uses the native package management tool for the distro you select.
-
-> [!Warning]
-> testinggggggggggggggg If the SDK doesn't provide the required functionality,
-> you can also call to the [Azure REST API](https://docs.microsoft.com/rest/api/resources/) directly.
-> 
+[Paragraph is missing]
 
 We are working with our partners to get cloud-init included and working in the images that they provide to Azure. The following table outlines the current cloud-init availability on Azure platform images:
 
-| Alias testing testing  | Publisher | Offer | SKU | Version |
+| Table1 | Publisher | Offer | SKU | Version |
 |:--- |:--- |:--- |:--- |:--- |:--- |
-| UbuntuLTS testing |Canonical |UbuntuServer |16.04-LTS |latest |
+| UbuntuLTS |Canonical |UbuntuServer |16.04-LTS |latest |
 | UbuntuLTS |Canonical |UbuntuServer |14.04.5-LTS |latest |
 | CoreOS |CoreOS |CoreOS |Stable |latest |
 | | OpenLogic | CentOS | 7-CI | latest |
-| | RedHat | RHEL | 7-RAW-CI | latest
+| | RedHat | RHEL | 7-RAW-CI | latest |
 
 
-## Create cloud-init config file
+| Table3 | Publisher | Offer | SKU | Version |
+|:--- |:--- |:--- |:--- |:--- |:--- |
+| UbuntuLTS |Canonical |UbuntuServer |16.04-LTS |latest |
+| UbuntuLTS |Canonical |UbuntuServer |14.04.5-LTS |latest |
+| CoreOS |CoreOS |CoreOS |Stable |latest |
+| | OpenLogic | CentOS | 7-CI | latest |
+| | RedHat | RHEL | 7-RAW-CI | latest |
+
+
+H2 Heading is missing here
 
 In your current shell, create a file named *cloud-init.txt* and paste the following configuration. For example, create the file in the Cloud Shell not on your local machine. You can use any editor you wish. Enter `sensible-editor cloud-init.txt` to create the file and see a list of available editors. Make sure that the whole cloud-init file is copied correctly, especially the first line:
 
@@ -121,15 +133,9 @@ The following steps show how you can:
 
 First, create a Key Vault with [az keyvault create](/cli/azure/keyvault#create) and enable it for use when you deploy a VM. Each Key Vault requires a unique name, and should be all lower case. Replace *mykeyvault* in the following example with your own unique Key Vault name:
 
-```azurecli-interactive 
-keyvault_name=mykeyvault testinggggggggggggggggggggggggggggg
-az keyvault create \
-    --resource-group myResourceGroupAutomate \
-    --name $keyvault_name \
-    --enabled-for-deployment
-```
+Missing a code here
 
-### Generate certificate and store in Key Vault
+### Generate certificate Title is different
 For production use, you should import a valid certificate signed by trusted provider with [az keyvault certificate import](/cli/azure/keyvault/certificate#import). For this tutorial, the following example shows how you can generate a self-signed certificate with [az keyvault certificate create](/cli/azure/keyvault/certificate#create) that uses the default certificate policy:
 
 ```azurecli-interactive 
