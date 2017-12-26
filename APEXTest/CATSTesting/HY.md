@@ -4,9 +4,8 @@
 Nest with External Link [baidu](http://www.baidu.com/) Nest with External Link. 
 
 > [!WARNING] 
-[baidu](http://www.baidus.com/) Nest with invalid External Link 
 
-[!TIP] 
+>[!TIP] 
 > Nest with External Link  [baidu](http://www.baidu.com/)
 
 >[!IMPORTANT] 
