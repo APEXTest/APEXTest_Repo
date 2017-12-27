@@ -16,8 +16,7 @@
 
 + bbb
 + bbb
-
-- ccc
+ - ccc
 - ccc
 
 
