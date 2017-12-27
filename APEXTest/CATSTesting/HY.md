@@ -9,6 +9,9 @@
 * aaa
       + test
           -testaaa
+          -testbbb
+      + d
+      -d
 * aaa
 
 + bbb
