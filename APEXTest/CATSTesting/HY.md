@@ -6,7 +6,16 @@
 > [!CAUTION] 
 > Nest with Internal Link [BookMark](#Alert without message)  
 
->[!VIDEO https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4] 
+### The image displayed normal with reference insert
+  ![test][Flower]
+  [Flower]: ./../Reference-Files/Images/flower.jpg
 
-> [!VIDEO https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4] 
-
+### The image displayed normal with reference insert
+  ![Flower][test]
+  [Flower]: ./../Reference-Files/Images/flower.jpg
+  
+  ### The image displayed normal with no Alt text
+  ![flower](./../Reference-Files/Images/flower.jpg)
+  ![](./../Reference-Files/Images/flower.jpg)
+  ![](./../Reference-Files/Images/flower.jpg)
+  
