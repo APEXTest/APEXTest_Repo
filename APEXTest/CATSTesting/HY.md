@@ -26,7 +26,7 @@
   | ------------- | ----------- |
   | 1_Help      | Display the help window.|
   | Close     | _Closes_ a window     |
-*    b
+* b
 * | Normal table | Description          |
   | ------------- | ----------- |
   | 1_Help      | Display the help window.|
@@ -34,7 +34,7 @@
 
 ### Verify error when no indenting after "*"/"+"/"-" 
 * aaa
-	a. test1
+	1. test1
 	b. test2			
 * bbb
 * ccc
