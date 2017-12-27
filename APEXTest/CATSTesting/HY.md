@@ -19,4 +19,23 @@
 
 - ccc
 - ccc
+
+
+### Verify error when no indenting after "*"/"+"/"-" 
+*    | Normal table | Description          |
+  | ------------- | ----------- |
+  | 1_Help      | Display the help window.|
+  | Close     | _Closes_ a window     |
+*    b
+* | Normal table | Description          |
+  | ------------- | ----------- |
+  | 1_Help      | Display the help window.|
+  | Close     | _Closes_ a window     |
+
+### Verify error when no indenting after "*"/"+"/"-" 
+* aaa
+	1. test1
+	2. test2			
+* bbb
+* ccc
   
