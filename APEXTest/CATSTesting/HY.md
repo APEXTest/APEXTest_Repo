@@ -22,7 +22,7 @@
 
 
 ### Verify error when no indenting after "*"/"+"/"-" 
-*    | Normal table | Description          |
+* | Normal table | Description          |
   | ------------- | ----------- |
   | 1_Help      | Display the help window.|
   | Close     | _Closes_ a window     |
