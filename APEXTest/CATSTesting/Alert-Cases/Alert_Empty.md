@@ -1,4 +1,4 @@
-## Empty Alert with  `<p>`!
+## Empty Alert with  `<p>`
 > [!NOTE]  
 > <P>
 
