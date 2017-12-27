@@ -46,4 +46,10 @@
 	2. 
 		4. 
 		8. hi
+		
+		
+| Normal table | Description          |
+| ---| ----------- |
+| 1_Help      | Display the help window.|
+| Close     | _Closes_ a window     |
   
