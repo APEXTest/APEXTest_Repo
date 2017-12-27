@@ -8,8 +8,8 @@
 
 * aaa
       * test
-          -testaaa
-          -testbbb
+          - testaaa
+          - testbbb
       + d
       - d
 * aaa
