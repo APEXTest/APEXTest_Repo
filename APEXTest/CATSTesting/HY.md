@@ -8,14 +8,14 @@
 
 ### The image displayed normal with reference insert
   ![test][Flower]
-  [Flower]: ./../Reference-Files/Images/flower.jpg
+  [Flower]: ./Reference-Files/Images/flower.jpg
 
 ### The image displayed normal with reference insert
   ![Flower][test]
-  [Flower]: ./../Reference-Files/Images/flower.jpg
+  [Flower]: ./Reference-Files/Images/flower.jpg
   
   ### The image displayed normal with no Alt text
-  ![flower](./../Reference-Files/Images/flower.jpg)
-  ![](./../Reference-Files/Images/flower.jpg)
-  ![](./../Reference-Files/Images/flower.jpg)
+  ![flower](./Reference-Files/Images/flower.jpg)
+  ![](./Reference-Files/Images/flower.jpg)
+  ![](./Reference-Files/Images/flower.jpg)
   
