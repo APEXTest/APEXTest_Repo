@@ -7,11 +7,11 @@
 > Nest with Internal Link [BookMark](#Alert without message)  
 
 * aaa
-      + test
+      * test
           -testaaa
           -testbbb
       + d
-      -d
+      - d
 * aaa
 
 + bbb
