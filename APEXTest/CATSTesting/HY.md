@@ -34,8 +34,8 @@
 
 ### Verify error when no indenting after "*"/"+"/"-" 
 * aaa
-	1. test1
-	2. test2			
+	a. test1
+	b. test2			
 * bbb
 * ccc
   
