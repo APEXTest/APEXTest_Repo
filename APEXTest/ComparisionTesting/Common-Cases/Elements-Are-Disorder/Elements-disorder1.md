@@ -15,6 +15,7 @@ A full list of our supported tags and attributes can be found [here](https://git
 ![Image5](../../Reference-Files/Images/image5.jpg)
 
 ### Image1
+![Image1](../../Reference-Files/Images/image1.jpg)
 
 ### Image2
 ![Image2](../../Reference-Files/Images/image2.jpg)

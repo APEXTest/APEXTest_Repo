@@ -5,7 +5,7 @@
 I am [Link1](http://www.baidu.com).
 This topic provides step-by-step instructions for installing Update Rollup 1 for Microsoft Forefront Endpoint Protection (FEP) 2010 on a server. To install this update, you must first download and expand Update Rollup 1 for Forefront Endpoint Protection 2010 for your operating system architecture from the [Link2 is missing].
 
-The following table is a list of the updates included in this package, their folder name within the package, [Link3](http://www.baidu.com)and the computer on which they should be installed.
+The following table is a list of the updates included in this package, their folder name within the package, [Link3 is missing]and the computer on which they should be installed.
 
 [List item is missing]
 * View the [Markdown Basics](https://help.github.com/articles/markdown-basics/)
@@ -174,7 +174,7 @@ A full list of our supported tags and attributes can be found [here](https://git
 ![Image3](../../Reference-Files/Images/image3.jpg)
 
 ### Image4
-![Image4](../../Reference-Files/Images/image4.jpg)
+[Image is missing]
 
 ### Image5
 ![Image5](../../Reference-Files/Images/image5.jpg)
