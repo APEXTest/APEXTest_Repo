@@ -168,13 +168,17 @@ A colon on the **left-most** side indicates a left-aligned column; a colon on th
 You can use a subset of HTML within your content. 
 A full list of our supported tags and attributes can be found [here](https://github.com/github/markup/tree/master#html-sanitization)
 
-Image1
-![Image1](./../Images/image1.jpg)
-Image2
-![Image2](./../../Images/image2.jpg)
-Image1
-![Image3](../../Images/image3.jpg)
-Image1
-![Image4](../../Images/image4.jpg)
-Image1
-![Image5](../../Images/image5.jpg)
+### Image1
+![Image1](../../../Images/image1.jpg)
+
+### Image2
+![Image2](../../../Images/image2.jpg)
+
+### Image3
+![Image3](../../../Images/image3.jpg)
+
+### Image4
+![Image4](../../../Images/image4.jpg)
+
+### Image5
+![Image5](../../../Images/image5.jpg)
