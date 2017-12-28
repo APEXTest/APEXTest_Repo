@@ -6,19 +6,18 @@ You can use a subset of HTML within your content.
 A full list of our supported tags and attributes can be found [here](https://github.com/github/markup/tree/master#html-sanitization)
 
 ### Image3
-![Image3](../../../Images/image3.jpg)
+![Image3](../../Reference-Files/Images/image3.jpg)
 
 ### Image4
-![Image4](../../../Images/image4.jpg)
+![Image4](../../Reference-Files/Images/image4.jpg)
 
 ### Image5
-![Image5](../../../Images/image5.jpg)
+![Image5](../../Reference-Files/Images/image5.jpg)
 
 ### Image1
-![Image1](../../../Images/image1.jpg)
 
 ### Image2
-![Image2](../../../Images/image2.jpg)
+![Image2](../../Reference-Files/Images/image2.jpg)
 
 ### Add Reference to your content
 - **Insert Links**
