@@ -1,25 +1,34 @@
-title
+test
 
-## This line is Bold text with "**"
-**This line is Bold!!!**
+##  Split line(True)
+1. *
 
-## This line is Italic text with "*"
-*This line is Italic!!!*
+***
+2. _
+______________________________________________________________
 
-## This line is Bold and Italic text with "***"
-***This line is Bold and Italic!!!***
+3. -
 
-## This line is Bold text with "__"
-__This line is Bold!!!__
+------------------------------------------
 
-## This line is Italic text with" _"
-_This line is Italic!!!_
+4. mix insert
+*-_*-_
 
-## This line is Bold and Italic text with "___"
-___This line is Bold and Italic!!!___
+##  Split line(False)
 
-## Verify the mark syntax （mark with "`"）
-Use the `printf()` function.
+1*2-3_
 
-## Verify mark words/sentences in marked sentences
-``There is a literal backtick (`printf()`) here.``
+++++++++++++
+
+## Verify trope
+\*literal asterisks\*
+\`literal asterisks\`
+\_literal asterisks\_   
+\{literal asterisks\}
+\[literal asterisks\]
+\(literal asterisks\)
+\#literal asterisks\#
+\+literal asterisks\+
+\-literal asterisks\-
+\.literal asterisks\.
+\`!literal asterisks\!
