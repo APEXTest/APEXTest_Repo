@@ -5,11 +5,14 @@
 I am [Link1](http://www.baidu.com).
 This topic provides step-by-step instructions for installing Update Rollup 1 for Microsoft Forefront Endpoint Protection (FEP) 2010 on a server. To install this update, you must first download and expand Update Rollup 1 for Forefront Endpoint Protection 2010 for your operating system architecture from the [Link2](http://go.microsoft.com/fwlink/?LinkID=220766).
 
-The following table is a list of the updates included in this package, their folder name within the package, [Link4](http://www.google.com)and the computer on which they should be installed.
+The following table is a list of the updates included in this package, their folder name within the package, and the computer on which they should be installed.
 
 * View the [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 * View the [Github](https://help.github.com/)
 * View the [Online sample](http://github.github.com/github-flavored-markdown/sample_content.html).
+
+### Link 3 is missing, link4 is new added, page header is added
+[Link4](http://www.google.com)
 
 ## List Test
 
@@ -154,11 +157,7 @@ You can also include inline Markdown format syntax such as links, bold, italics,
 
 You can have more formatting control by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+[Table is missing]
 
 A colon on the **left-most** side indicates a left-aligned column; a colon on the **right-most** side indicates a right-aligned column; a colon on **both** sides indicates a center-aligned column.
 
@@ -168,11 +167,14 @@ A colon on the **left-most** side indicates a left-aligned column; a colon on th
 You can use a subset of HTML within your content. 
 A full list of our supported tags and attributes can be found [here](https://github.com/github/markup/tree/master#html-sanitization)
 
+### Image6 is new added
+![Image 6](../../Reference-Files/Images/image1.jpg)
+
 ### Image1
 ![Image1](../../Reference-Files/Images/image1.jpg)
 
 ### Image2
-![Image2 alt is different](../../Reference-Files/Images/image2.jpg)
+![Image2](../../Reference-Files/Images/image2.jpg)
 
 ### Image3
 ![Image3](../../Reference-Files/Images/image3.jpg)
