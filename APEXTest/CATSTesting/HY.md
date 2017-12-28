@@ -6,9 +6,9 @@
 ######      This is H6 Title Heading
 
 This is H1 Title Heading, Welcome to CAPS Markdown Editor!
-====
+===
 This is H2 Title Heading, Welcome to CAPS Markdown Editor!
-------
+-----
 
 ##  Title Heading
 
