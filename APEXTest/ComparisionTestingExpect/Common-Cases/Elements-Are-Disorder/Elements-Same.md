@@ -25,10 +25,12 @@ List test2
 
 List test3
 1. Create an Azure Key Vault
-    First Header  | Second Header
-    ------------- | -------------
-    Content Cell  | Content Cell
-    Content Cell  | Content Cell
+
+|First Header  | Second Header|
+|-------------|-------------|
+|Content Cell  | Content Cell|
+|Content Cell  | Content Cell|
+
 2. Generate or upload a certificate to the Key Vault
 3. Create a secret from the certificate to inject in to a VM
 4. Create a VM and inject the certificate
@@ -167,9 +169,9 @@ You can use a subset of HTML within your content.
 A full list of our supported tags and attributes can be found [here](https://github.com/github/markup/tree/master#html-sanitization)
 
 Image1
-![Image1](../../Images/image1.jpg)
+![Image1](./../Images/image1.jpg)
 Image2
-![Image2](../../Images/image2.jpg)
+![Image2](./../../Images/image2.jpg)
 Image1
 ![Image3](../../Images/image3.jpg)
 Image1
