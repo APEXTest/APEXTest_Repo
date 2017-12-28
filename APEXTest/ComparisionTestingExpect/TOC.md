@@ -3,12 +3,7 @@
 # [Common-Cases](Common-Cases/index.md)
 
 ## [Elements-Are-Disorder](Common-Cases/Elements-Are-Disorder/Index.md)
-### [Elements-Same](Common-Cases/Elements-Are-Disorder/Elements-Same.md)
-### [Elements-Missing](Common-Cases/Elements-Are-Disorder/Elements-Missing.md)
-### [Elements-Different](Common-Cases/Elements-Are-Disorder/Elements-Different.md)
-### [Elements-Add-Missing](Common-Cases/Elements-Are-Disorder/Elements-Add-Missing.md)
-### [Elements-Disorder](Common-Cases/Elements-Are-Disorder/Elements-Disorder.md)
-### [Elements-Disorder1](Common-Cases/Elements-Are-Disorder/Elements-Disorder1.md)
+### [Elements-Same](Common-Cases/Elements-Are-Disorder/Elements-Order-Test.md)
 
 ## [Alert](Common-Cases/Alert-Cases/Index.md)
 ### [Alert_Common](Common-Cases/Alert-Cases/Alert_Common.md)
