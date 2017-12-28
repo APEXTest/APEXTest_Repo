@@ -65,6 +65,22 @@
       },
       "build_entry_point": "OP",
       "template_folder": "_themes.MSDN"
+    },
+     {
+      "docset_name": "Compare_TN",
+      "build_source_folder": "APEXTest/Compare_TN",
+      "build_output_subfolder": "Compare_TN",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op",
+      "version": 0
     }
   ],
   "notification_subscribers": [
