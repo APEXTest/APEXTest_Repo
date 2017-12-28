@@ -1,55 +1,25 @@
-## Alert
+title
 
->[!TIP] 
-> Nest with External Link  [baidu](http://www.baidu.com/)
+## This line is Bold text with "**"
+**This line is Bold!!!**
 
-> [!CAUTION] 
-> Nest with Internal Link [BookMark](#Alert without message)  
+## This line is Italic text with "*"
+*This line is Italic!!!*
 
-* aaa
-      * test
-          - testaaa
-          - testbbb
-      + d
-      - d
-* aaa
+## This line is Bold and Italic text with "***"
+***This line is Bold and Italic!!!***
 
-+ bbb
-+ bbb
- - ccc
-- ccc
+## This line is Bold text with "__"
+__This line is Bold!!!__
 
+## This line is Italic text with" _"
+_This line is Italic!!!_
 
-### Verify error when no indenting after "*"/"+"/"-" 
-* | Normal table | Description          |
-  | ------------- | ----------- |
-  | 1_Help      | Display the help window.|
-  | Close     | _Closes_ a window     |
-* b
-* | Normal table | Description          |
-  | ------------- | ----------- |
-  | 1_Help      | Display the help window.|
-  | Close     | _Closes_ a window     |
+## This line is Bold and Italic text with "___"
+___This line is Bold and Italic!!!___
 
-### Verify error when no indenting after "*"/"+"/"-" 
-* aaa
-	1. test1
-	b. test2			
-* bbb
-* ccc
+## Verify the mark syntax （mark with "`"）
+Use the `printf()` function.
 
-
-
-### Verify list nested alert
-1. aaa
-	3. >[!NOTE] test
-	2. 
-		4. 
-		8. hi
-		
-		
-| Normal table | Description          |
-| ---| ----------- |
-| 1_Help      | Display the help window.|
-| Close     | _Closes_ a window     |
-  
+## Verify mark words/sentences in marked sentences
+``There is a literal backtick (`printf()`) here.``
