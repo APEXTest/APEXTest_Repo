@@ -1,34 +1,21 @@
 test
 
-##  Split line(True)
-1. *
 
-***
-2. _
-______________________________________________________________
+It's <code>code</code> sample.
 
-3. -
+It's <pre>pre</pre> sample.
 
-------------------------------------------
+Use the `printf()` function.
 
-4. mix insert
-*-_*-_
+``There is a literal backtick (`printf()`) here.``
 
-##  Split line(False)
 
-1*2-3_
+```c
+ 
+```
+  
+```azurecli-interactive
+az group create --name myResourceGroup --location westeurope
+```
 
-++++++++++++
-
-## Verify trope
-\*literal asterisks\*
-\`literal asterisks\`
-\_literal asterisks\_   
-\{literal asterisks\}
-\[literal asterisks\]
-\(literal asterisks\)
-\#literal asterisks\#
-\+literal asterisks\+
-\-literal asterisks\-
-\.literal asterisks\.
-\`!literal asterisks\!
+[!Code-fsharp[snippetGetActions_fsharp](.\..\Reference-Files\CodeSnippets\code_test_fsharp.fs)] 
