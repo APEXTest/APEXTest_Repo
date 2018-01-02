@@ -18,4 +18,4 @@ Use the `printf()` function.
 az group create --name myResourceGroup --location westeurope
 ```
 
-[!Code-fsharp[snippetGetActions_fsharp](.\..\Reference-Files\CodeSnippets\code_test_fsharp.fs)] 
+
