@@ -13,3 +13,7 @@
 [https://www.uih.co.th/en/internet-solution/cloud-direct/uih-cloud-direct-for-microsoft-azure-expressroute](https://www.uih.co.th/en/internet-solution/cloud-direct/uih-cloud-direct-for-microsoft-azure-expressroute) </br>
 [http://itconsult.com.au/microsoft-expressroute](http://itconsult.com.au/microsoft-expressroute) </br>
 [https://account.windowsazure.com/subscriptions/](https://account.windowsazure.com/subscriptions/)
+
+Git URL test
+[Git URL test](https://github.com/APEXTest/APEXTest_Repo/edit/master/APEXTest/CATSTesting/Link-Cases/Link_bugfix.md)
+[Git-mainpage](https://github.com)
