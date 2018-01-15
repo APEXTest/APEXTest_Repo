@@ -1,21 +1,21 @@
 ---
 # required metadata
 
-title: test1
+#title: test1
 description: This topic provides a description of Anomaly detection policies and provides reference informati on about the building blocks of an anomaly detection policy.
 keywords: list&meta
 author: rkarlin
-ms.author: Archiveddocs
+ms.author: ruixiang
 manager: mbaldwin
 ms.date: 01/15/2018
-ms.topic: Archived
+ms.topic: article
 ms.prod: 1
 ms.service: 
-robots: NOINDEX,NOFOLLOW
+#robots: NOINDEX,NOFOLLOW
 ms.technology: cloud-app-security
-is_archived: true
+is_retired: true
 ms.assetid: ab9bc377-d2f5-4f4c-a419-f1728a15d1c7
-uhfHeaderId: MSDocsHeader-Archive
+uhfHeaderId: 1
 
 # optional metadata
 
