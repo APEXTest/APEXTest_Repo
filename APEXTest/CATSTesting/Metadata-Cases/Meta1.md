@@ -7,7 +7,7 @@ keywords: list&meta
 author: rkarlin
 ms.author: rkarlin
 manager: mbaldwin
-ms.date: 01/15/2018
+ms.date: 2018-01-15 10:34 AM
 ms.topic: article
 ms.prod: 
 ms.service: 
