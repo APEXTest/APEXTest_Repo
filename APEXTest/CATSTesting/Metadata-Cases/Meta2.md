@@ -12,7 +12,7 @@ ms.topic: article
 ms.prod: article
 ms.service: cloud-app-security
 ms.technology:
-ROBOTS:NOINDEX,NOFOLLOW
+ROBOTS: NOINDEX,NOFOLLOW
 
 # optional metadata
 
