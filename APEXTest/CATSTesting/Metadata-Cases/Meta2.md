@@ -12,10 +12,10 @@ ms.topic: article
 ms.prod: article
 ms.service: cloud-app-security
 ms.technology:
+ROBOTS:NOINDEX,NOFOLLOW
 
 # optional metadata
 
-#ROBOTS:
 #audience:
 #ms.devlang:
 ms.reviewer: reutam
