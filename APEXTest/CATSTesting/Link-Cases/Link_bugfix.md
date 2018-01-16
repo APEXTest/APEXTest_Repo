@@ -2,7 +2,7 @@
 
 
 ## Empty link
-[Here is my text]()
+[Here is an empty link]()
 
 ## Bug 1045193
 [http://www.linkedin.com/in/alexandair](http://www.linkedin.com/in/alexandair) </br>
