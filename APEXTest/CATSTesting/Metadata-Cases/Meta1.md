@@ -9,7 +9,7 @@ ms.author: ruixiang
 manager: mbaldwin
 ms.date: 01/15/2018
 ms.topic: article
-ms.prod: 1
+ms.prod: Archived
 ms.service: 
 #robots: NOINDEX,NOFOLLOW
 ms.technology: cloud-app-security
