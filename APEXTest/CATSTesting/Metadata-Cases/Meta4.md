@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: This topic provides a description of Anomaly detection policies | Microsoft Docs
+title: 
 description: This topic provides a description of Anomaly detection policies and provides reference informati on about the building blocks of an anomaly detection policy.
 ms.prod: business-platform
 ms.service: 
@@ -12,6 +12,7 @@ ms.author: rkarlin
 manager: mbaldwin
 ms.date: 11/06/2016
 ms.topic: article
+Robots:
 
 # optional metadata
 
