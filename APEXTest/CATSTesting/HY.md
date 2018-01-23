@@ -1,59 +1,20 @@
-test
+Using VBScript Objects
 
 
-It's <code>code</code> sample.
-
-It's <pre>pre</pre> sample.
-
-Use the `printf()` function.
-
-``There is a literal backtick (`printf()`) here.``
-
-
-```c
- 
-```
-  
-```azurecli-interactive
-az group create --name myResourceGroup --location westeurope
-```
-
-<ul compact="compact">
-<li>Coffer</li>
-<li>Tea</li>
-<li>Milk</li>
-</ul>
+Object Description 
+Dictionary Stores a collection of key and data values 
+Drive Accesses information about a disk drive; part of FileSystemObject 
+Drives Stores a collection of Drive objects; part of FileSystemObject 
+Err Holds information about runtime errors 
+File Accesses information about the files in a directory; part of FileSystemObject 
+Files Stores a collection of File objects; part of FileSystemObject 
+FileSystemObject Provides object-oriented access files and directories 
+Folder Accesses folders; part of FileSystemObject 
+Folders Stores a collection of Folder objects; part of FileSystemObject 
+TextStream Accesses the contents of a file; part of FileSystemObject 
 
 
-<h2>Id=510123: ordered List, test elements: "ol, li"</h2>
-<ol>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ol>
-
-<h2>Id=510124: ordered List with "start" attribute</h2>
-<ol start="50">
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ol>
-
-<h2>Id=510125: description list, test elements "dl, dt, dd"</h2>
-
-<dl>
-   <dt>Coffee</dt>
-   <dd>Black hot drink</dd>
-   <dt>Milk</dt>
-   <dd>White cold drink</dd>
-</dl> 
 
 
-<h3>Id=510149: Dir test: list directory titles</h3>
-<dir>
-  <li>html</li>
-  <li>xhtml</li>
-  <li>css</li>
-</dir>
 
 
