@@ -1,4 +1,4 @@
-# Using VBScript Objects
+# Using&nbspVBScript Objects
 
 
 Object Description 
