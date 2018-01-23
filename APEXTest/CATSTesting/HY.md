@@ -1,4 +1,4 @@
-<h1>Using&nbspVBScript Objects</h1>
+# Making Global Declarations for I’m Thinking of a Color
 
 
 Object Description 
