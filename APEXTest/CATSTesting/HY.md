@@ -1,6 +1,6 @@
 # This article may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist. To maintain the flow of the article, we've left these URLs in the text, but disabled the links.
 
-# Making Global Declarations for I’m Thinking of a Color
+## Making Global Declarations for I’m Thinking of a Color
 
 
 Object Description 
