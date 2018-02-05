@@ -35,6 +35,7 @@
 
 ## [List](Common-Cases/List-Cases/Index.md)
 ### [List_Common](Common-Cases/List-Cases/List_Common.md)
+### [Different_List](Common-Cases/List-Cases/DifferentList.md)
 
 ## [Table](Common-Cases/Table-Cases/Index.md)
 ### [Table_Common](Common-Cases/Table-Cases/Table_Common.md)
