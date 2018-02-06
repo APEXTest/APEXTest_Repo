@@ -1,5 +1,5 @@
 # Different list
-* Microsoft.VisualStudio.(different)SharePoint.Designers.Models.dll
+* Microsoft.VisualStudio.SharePoint.Designers.Models.dll
 * Microsoft.VisualStudio.SharePoint.Designers.Models.Features.dll
 * Microsoft.VisualStudio.SharePoint.Designers.Models.Packages.dll
 * Microsoft.VisualStudio.SharePoint.dll
