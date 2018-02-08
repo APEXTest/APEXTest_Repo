@@ -33,7 +33,8 @@ rs.rdoColumns("Au_Fname")
 ```
 ' Refers to the Au_Fname column 
 rs.rdoColumns!Au_Lname
-``` 
+```
+
 * Referencing its ordinal position in the rdoColumns collection using this syntax:
 ```
 rs.rdoColumns(0)
