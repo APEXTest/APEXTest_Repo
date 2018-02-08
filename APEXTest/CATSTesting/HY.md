@@ -32,11 +32,12 @@ rs.rdoColumns("Au_Fname")
 -Or-
 ```
 ' Refers to the Au_Fname column 
-rs.rdoColumns!Au_Lname 
+rs.rdoColumns!Au_Lname
 ``` 
 * Referencing its ordinal position in the rdoColumns collection using this syntax:
 ```
 rs.rdoColumns(0)
+
 ```
 
 The rdoTable object's rdoColumns collection contains specifications for the data columns. You can use the rdoColumn object of an rdoTable object to map a base table's column structure. However, you cannot directly alter the structure of a database table using RDO properties and methods. You can, however, use data definition language (DDL) action queries to modify database schema.
