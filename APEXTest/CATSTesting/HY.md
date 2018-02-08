@@ -1,23 +1,54 @@
-# This article may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist. To maintain the flow of the article, we've left these URLs in the text, but disabled the links.
+#test
 
-## Making Global Declarations for I’m Thinking of a Color
+* Use the Value property of an rdoColumn to extract data from a specified column.
 
+* Use the Type and Size property settings to determine the data type and size of the data.
 
-Object Description 
-Dictionary Stores a collection of key and data values 
-Drive Accesses information about a disk drive; part of FileSystemObject 
-Drives Stores a collection of Drive objects; part of FileSystemObject 
-Err Holds information about runtime errors 
-File Accesses information about the files in a directory; part of FileSystemObject 
-Files Stores a collection of File objects; part of FileSystemObject 
-FileSystemObject Provides object-oriented access files and directories 
-Folder Accesses folders; part of FileSystemObject 
-Folders Stores a collection of Folder objects; part of FileSystemObject 
-TextStream Accesses the contents of a file; part of FileSystemObject 
+* Use the Updatable property to see if the column can be changed.
 
+* Use the SourceColumn and SourceTable property settings to locate the original source of the data.
 
-test
+* Use the OrdinalPosition property to get presentation order of the rdoColumn objects in an rdoColumns collection.
 
+* Use the Attributes and Required property settings to determine optional characteristics and if Nulls are permitted in the column.
+
+* Use the AllowZeroLength property to determine how zero-length strings are handled.
+
+* Use the BatchConflictValue, and OriginalValue properties to resolve optimistic batch update conflicts.
+
+* Use the KeyColumn to determine if this column is part of the primary key.
+
+* Use the Status property to determine if the column has been modified.
+
+* Use the AppendChunk, ColumnSize, and GetChunk methods to manipulate columns that require the use of these methods, as determined by the ChunkRequired property.
+When you need to reference data from an rdoResultset column, you can refer to the Value property of an rdoColumn object by:
+
+* Referencing the Name property setting using this syntax
+```
+' Refers to the Au_Fname column rdoColumns("Au_Fname")
+rs.rdoColumns("Au_Fname")
+```
+-Or-
+```
+' Refers to the Au_Fname column 
+rs.rdoColumns!Au_Lname 
+``` 
+* Referencing its ordinal position in the rdoColumns collection using this syntax:
+```
+rs.rdoColumns(0)
+```
+
+The rdoTable object's rdoColumns collection contains specifications for the data columns. You can use the rdoColumn object of an rdoTable object to map a base table's column structure. However, you cannot directly alter the structure of a database table using RDO properties and methods. You can, however, use data definition language (DDL) action queries to modify database schema.
+
+When the rdoColumn object is accessed as part of an rdoResultset object, data from the current row is visible in the rdoColumn object's Value property. To manipulate data in the rdoResultset, you don't usually reference the rdoColumns collection directly. Instead, use syntax that references the rdoColumns collection as the default collection of the rdoResultset.
+
+```
+dim rs As rdoResultset
+Set rs = cn.OpenResultset("Select * from Authors" _
+   & "Where Au_Lname = 'White'",rdOpenForwardOnly)
+debug.print rs!Au_Fname   
+   'Refers to rdoRecordset object's rdoColumns collection. 
+```
 
 
 
