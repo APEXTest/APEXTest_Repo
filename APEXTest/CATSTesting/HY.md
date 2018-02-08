@@ -23,7 +23,7 @@
 * Use the AppendChunk, ColumnSize, and GetChunk methods to manipulate columns that require the use of these methods, as determined by the ChunkRequired property.
 When you need to reference data from an rdoResultset column, you can refer to the Value property of an rdoColumn object by:
 
-* Referencing the Name property setting using this syntax
+* Referencing the Name property setting using this syntax:
 ```
 ' Refers to the Au_Fname column rdoColumns("Au_Fname")
 rs.rdoColumns("Au_Fname")
