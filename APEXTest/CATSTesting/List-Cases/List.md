@@ -115,3 +115,27 @@
 |Table nest List|Description|Supported templates|
 |-------------|-----------|-------------------|
 |Project templates|Types of projects available in the **New Project** dialog box.|<ul><li>F# Application<br /></li><li><br /></li><li>F# Tutorial<br /></li><li>F# Portable Library<br /></li><ul/>|
+	
+	
+### List nest with alert 1
+* item 1
+* item 2
+> [!NOTE] 
+> Sample Notification Message
+* item 3
+
+
+### List nest with alert 2
+1 item 1
+2 item 2
+> [!NOTE] 
+> Sample Notification Message
+3 item 3
+
+### List nest with alert 3
+1 item 1
+2 item 2
+
+> [!NOTE] 
+> Sample Notification Message
+3 item 3
