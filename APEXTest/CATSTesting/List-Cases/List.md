@@ -150,7 +150,7 @@
 3. item 3
 
 ### List nest with alert (HTML)
-<ul>
+<ol>
 <li>item 1</li>
 <li>item 2
 <div class="NOTE alert">
@@ -159,5 +159,5 @@
 </div>
 </li>
 <li>item 3</li>
-</ul>
+</ol>
 
