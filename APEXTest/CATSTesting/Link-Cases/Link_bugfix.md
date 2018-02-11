@@ -4,6 +4,9 @@
 ## Empty link
 [Here is an empty link]()
 
+## MailTO link
+[dsiebold@earthlink.net](mailto:dsiebold@earthlink.net)
+
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
 
