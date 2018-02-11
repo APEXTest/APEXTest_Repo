@@ -10,6 +10,9 @@
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
 
+## linkinnormal test
+sfsfsgsdgsgsdg http://go.microsoft.com/fwlink/?LinkID=255174 sdfsdgsdgdbd
+
 ## Bug 1045193
 [http://www.linkedin.com/in/alexandair](http://www.linkedin.com/in/alexandair) </br>
 [https://portal.office.com/](https://portal.office.com/) </br>
