@@ -1,5 +1,6 @@
 # Test file for link bug fixing
 
+### H3 heading
 
 ## Empty link
 [Here is an empty link]()
