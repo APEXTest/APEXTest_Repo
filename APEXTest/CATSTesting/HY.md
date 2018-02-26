@@ -52,6 +52,8 @@ debug.print rs!Au_Fname
    'Refers to rdoRecordset object's rdoColumns collection. 
 ```
 
+<img src="./reference-files/images/flower.jpg" alt="ExternalLink" data-linktype="relative-path" title="">
+
 
 
 
