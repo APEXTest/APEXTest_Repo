@@ -5,6 +5,7 @@
 #### [Alert-Nest](Alert-cases/Alert_Nested.md)
 #### [Alert-Empty](Alert-cases/Alert_Empty.md)
 #### [Alert-Common](Alert-cases/Alert_Common.md)
+#### [Alert-test](Alert-cases/Alert_Test.md)
 
 ### [Code](CodeSnippet-Cases/Index.md)
 #### [CodeSnippet-Common](CodeSnippet-Cases/CodeSnippet_Common.md)
