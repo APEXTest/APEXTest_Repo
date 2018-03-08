@@ -11,21 +11,21 @@
 <p> I am message</p>
 </div>
 
-### Note
+### Note (p Tag)
 <div class="alert">
 <p>Note</p>
-<p> I am message</p>
-</div>
-
-### C++ Note
-<div class="alert">
-<p>C++ Note</p>
 <p> I am message</p>
 </div>
 
 ### Note (strong Tag)
 <div class="alert">
 <strong>Note</strong>
+<p>I am message</p>
+</div>
+
+### Note (class=NOTE alert)
+<div class="NOTE alert">
+<p>Note</p>
 <p>I am message</p>
 </div>
 
