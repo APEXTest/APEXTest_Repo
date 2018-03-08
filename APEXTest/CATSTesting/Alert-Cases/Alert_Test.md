@@ -4,7 +4,18 @@
 > [!NOTE]
 > alert note message
 
-## alert via HTML
+##alert via HTML(table)
+### mtps table
+<div class="alert">
+<div class="mtps-table">
+<p>Note</p>
+<p> I am message</p>
+</div>
+</div>
+
+
+
+## alert via HTML(div)
 ### note
 <div class="alert">
 <p>note</p>
@@ -15,6 +26,12 @@
 <div class="alert">
 <p>Note</p>
 <p> I am message</p>
+</div>
+
+### Note (strong Tag)
+<div class="alert">
+<strong>Note</strong>
+<p>I am message</p>
 </div>
 
 ### Note (strong Tag)
