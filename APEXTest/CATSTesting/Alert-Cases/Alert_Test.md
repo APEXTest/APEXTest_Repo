@@ -29,8 +29,8 @@
 <p>I am message</p>
 </div>
 
-### C++ Note (p Tag)
-<div class="alert">
+### C++ Note (class = NOTE alert)
+<div class="NOTE alert">
 <p>C++ Note</p>
 <p> I am message</p>
 </div>
