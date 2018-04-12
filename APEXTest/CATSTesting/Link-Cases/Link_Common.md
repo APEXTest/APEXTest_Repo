@@ -18,6 +18,7 @@
 | [InvaildExternalLink][InvaildExternalLink] | false | reference | false | External |
 | [VaildExternalBookMark][VaildExternalBookMark] | true | reference | true | External |
 | [InvaildExternalBookMark][InvaildExternalBookMark] | false | reference | true | External |  
+| [VaildInternalLink1][VaildInternalLink1] | true | reference | false | Internal |
 
 ## BookMarkTarget
 
@@ -27,6 +28,7 @@
 [InvaildExternalLink]: https://www.google.com/404
 [VaildInternalBookMark]: #BookMarkTarget
 [InvaildInternalBookMark]: #UnavaliableBookMark 
+[VaildInternalLink1]: OnlyExistOnThisBranch.md
 
 [VaildExternalBookMark]: https://www.google.com#sbtc  <br />
 [InvaildExternalBookMark]: https://www.google.com#UnavaliableBookMark  <br />
