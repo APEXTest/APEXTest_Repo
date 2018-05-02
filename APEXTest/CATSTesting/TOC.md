@@ -32,7 +32,7 @@
 
 ### [List](List-Cases/Index.md)
 #### [List-common](List-Cases/List.md)
-#### [List-common](List-Cases/ListTest.md)
+#### [List-Test](List-Cases/ListTest.md)
 
 ### [Metadata](Metadata-Cases/Index.md)
 #### [Metadata-Missing(prod,service,title)](Metadata-Cases/Meta1.md)
