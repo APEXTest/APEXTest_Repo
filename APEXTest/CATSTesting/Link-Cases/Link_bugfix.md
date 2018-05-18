@@ -53,7 +53,5 @@ USING Outputters.Tsv();
 Example using [Round](https://msdn.microsoft.com/library/system.math.round(v=vs.110).aspx).
 
 ## test3
-xcxcxzcxzcxz
-<hr/>
-xzczxcxzcxzcxz
+
 
