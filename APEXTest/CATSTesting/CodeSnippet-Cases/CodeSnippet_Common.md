@@ -70,5 +70,5 @@ I am text with `code sample` example.
 
 ### Azurecli Code sample
 ```azurecli-interactive
-az group create --name myResourceGroup --location westeurope
+az group create --name myResourceGroup --location westeuropes
 ``` 
