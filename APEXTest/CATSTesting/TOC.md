@@ -74,5 +74,8 @@
 
 ### [Switch tab test.md](Switch-tab-test.md)
 
+### [Playground]
+####[Index](Playground/Index.md)
+
 # [CATS Comparison Testing Expect Path](../ComparisionTestingExpect/Index.md)
 # [CATS Comparison Testing Target Path](../ComparisionTesting/Index.md)
