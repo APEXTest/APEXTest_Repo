@@ -72,10 +72,12 @@
 ##### [Dup TOC 2](TOC-Cases/BrokenTOC-dupTest.md)
 #### [Dup TOC 3](TOC-Cases/BrokenTOC-dupTest.md)
 
+### [Playground] (Playground/Index.md)
+####[Index](Playground/Index.md)
+
 ### [Switch tab test.md](Switch-tab-test.md)
 
-### [Playground]
-####[Index](Playground/Index.md)
+
 
 # [CATS Comparison Testing Expect Path](../ComparisionTestingExpect/Index.md)
 # [CATS Comparison Testing Target Path](../ComparisionTesting/Index.md)
