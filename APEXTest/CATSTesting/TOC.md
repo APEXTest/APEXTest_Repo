@@ -73,7 +73,7 @@
 #### [Dup TOC 3](TOC-Cases/BrokenTOC-dupTest.md)
 
 ### [Playground](Playground/Index.md)
-####[Index](Playground/Index.md)
+#### [Index](Playground/Index.md)
 
 ### [Switch tab test.md](Switch-tab-test.md)
 
