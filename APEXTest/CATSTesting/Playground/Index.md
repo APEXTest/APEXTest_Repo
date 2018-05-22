@@ -1,16 +1,17 @@
-# Table of Content
-- [Block_quote](#Block_quote)
+# Table-of-Content
+- [Table-of-Content](#Table-of-Content)
+- [Block-quote](#Block-quote)
 - [Alert](#Alert)
 - [Code](#Code)
 - [Image](#Image)
 - [List](#List)
-    - [Ordered_list](#Ordered_list)
-    - [Unordered_list](#Unordered_list)
+    - [Ordered-list](#Ordered-list)
+    - [Unordered-list](#Unordered-list)
 - [Table](#Table)
 
 ---
 
-# Block_quote
+# Block-quote
 > This is 
 > block quote
 
@@ -47,13 +48,13 @@ printf("Hello World\n");
 ![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrkFbgbqBJZmwD_VyzYlYOydUG2MHHoxYGvqUz_U3VUP_gAza "This is goolge image")
 
 # List
-## Ordered_list
+## Ordered-list
 1. This
     1. is
 1. ordered
     1. list.
 
-## Unordered_list
+## Unordered-list
 - This
     - is 
 - unordered
