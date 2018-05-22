@@ -1,4 +1,4 @@
-# Table of Content
+# Table Of Content
 - [Block-quote](#block-quote)
 - [Alert](#alert)
 - [Code](#code)
