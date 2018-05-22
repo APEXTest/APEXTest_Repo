@@ -11,12 +11,12 @@
 
 ---
 
-# Block-quote
+## Block-quote
 > This is 
 > block quote
 
 
-# Alert
+## Alert
 >[!NOTE]
 
 >[!WARNING]
@@ -27,7 +27,7 @@
 
 >[!CAUTION]
 
-# Code
+## Code
 ***Inline code:***
 This is `inline` code.
 
@@ -44,23 +44,23 @@ code
 printf("Hello World\n");
 ```
 
-# Image
+## Image
 ![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrkFbgbqBJZmwD_VyzYlYOydUG2MHHoxYGvqUz_U3VUP_gAza "This is goolge image")
 
-# List
-## Ordered-list
+## List
+### Ordered-list
 1. This
     1. is
 1. ordered
     1. list.
 
-## Unordered-list
+### Unordered-list
 - This
     - is 
 - unordered
     - list
 
-# Table
+## Table
 | th1 | th12 |
 |------| ------|
 | td1 | td12|
