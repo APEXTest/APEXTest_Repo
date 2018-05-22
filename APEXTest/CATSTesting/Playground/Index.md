@@ -1,7 +1,19 @@
+# Table of Content
+- [Block_quote](#Block_quote)
+- [Alert](#Alert)
+- [Code](#Code)
+- [Image](#Image)
+- [List](#List)
+    - [Ordered_list](#Ordered_list)
+    - [Unordered_list](#Unordered_list)
+- [Table](#Table)
 
-# Block quote
+---
+
+# Block_quote
 > This is 
 > block quote
+
 
 # Alert
 >[!NOTE]
@@ -15,8 +27,10 @@
 >[!CAUTION]
 
 # Code
-***Inline code***: This is `inline` code.
-***Block code***: 
+***Inline code:***
+This is `inline` code.
+
+***Block code:***
 ```
 This
 is 
@@ -24,17 +38,22 @@ block
 code
 ```
 
+***Syntax highlighting:***
+```c
+printf("Hello World\n");
+```
+
 # Image
 ![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrkFbgbqBJZmwD_VyzYlYOydUG2MHHoxYGvqUz_U3VUP_gAza "This is goolge image")
 
 # List
-## Ordered list
+## Ordered_list
 1. This
-    * is
-2. ordered
-    * list.
+    1. is
+1. ordered
+    1. list.
 
-## Unordered list
+## Unordered_list
 - This
     - is 
 - unordered
