@@ -1,5 +1,4 @@
-# Table-of-Content
-- [Table-of-Content](#Table-of-Content)
+
 - [Block-quote](#Block-quote)
 - [Alert](#Alert)
 - [Code](#Code)
@@ -9,7 +8,8 @@
     - [Unordered-list](#Unordered-list)
 - [Table](#Table)
 
----
+# Header
+
 
 ## Block-quote
 > This is 
