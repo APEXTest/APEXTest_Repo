@@ -83,9 +83,17 @@
 </td>
 </tr>
 <tr>
-<td>Other way</td>
+<td>HTML alert</td>
 <td>
 <div class="alert">
+<strong>Note</strong>  Right-click to display a context menu if selection or app bar commands are not appropriate UI behaviors. But we strongly recommend that you use the app bar for all command behaviors.
+</div>
+</td>
+</tr>
+  <tr>
+<td>HTML note alert</td>
+<td>
+<div class="NOTE alert">
 <strong>Note</strong>  Right-click to display a context menu if selection or app bar commands are not appropriate UI behaviors. But we strongly recommend that you use the app bar for all command behaviors.
 </div>
 </td>
