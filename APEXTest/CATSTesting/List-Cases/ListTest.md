@@ -40,9 +40,42 @@ The format of  _Property_Seq_ is the same as in the [attMAPIProps](attmapiprops.
   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
   
   
-## test list nest alert
+## test list nest alert2
 - xxxx
 - 2xxxxx
 - 3xxxx
-- > [!TIP]
+
+
+  > [!TIP]
   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
+  
+## test list nest alert 3
+
+Dieses Beispiel verwendet die folgenden: Webressourcen:
+
+  -  **sample\_/JQueryRESTDataOperations.htm**   
+    Verwenden Sie diese HTML-Seite, um das Beispiel zu starten und den Status der Aktionen anzuzeigen. Die Seite ist der Konfigurationsseite für Lösung **JQuery REST Data Operations**.
+
+  - **sample\_/Scripts/jquery1.9.1.min.js**  
+    Die minimierte Version von jQuery, die in den Microsoft Visual Studio-Webanwendungsprojekten enthalten ist. Die Inhalte dieser Bibliothek sind hier nicht enthalten.
+
+  -  **sample\_/Scripts/JQueryRESTDataOperationsSample.js**   
+    Eine JScript-Webressource, die die Vorgänge ausführt. Diese Bibliothek ist von der SDK.JQuery.js-Bibliothek abhängig.
+
+  -  **sample\_/Scripts/SDK.JQuery.js**   
+    Eine JScript-Webressource, die eine wiederverwendbare Bibliothek enthält, um Aktionen mit dem REST-Endpunkt unter Verwendung von JQuery auszuführen.
+    
+
+    > [!TIP]
+    > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter.</P>
+
+
+
+
+> [!TIP]
+> <P>Das Anpassungspräfix “sample_” wird nicht im Code verwendet. Diese Beispiele gehen mithilfe des Anpassungspräfixes von einem beliebigen Herausgeber. Allerdings muss der relative Pfad des simulierten Scripts-Ordners im Namen der Webressourcen berücksichtigt werden.</P>
+
+
+
+
+
