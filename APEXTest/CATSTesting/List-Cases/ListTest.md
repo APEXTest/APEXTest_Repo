@@ -31,7 +31,7 @@ The format of  _Property_Seq_ is the same as in the [attMAPIProps](attmapiprops.
 > [!TIP]
 > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
 
-## test list nest alert
+## test list nest alert 1 new line
 - xxxx
 - 2xxxxx
 - 3xxxx
@@ -39,16 +39,30 @@ The format of  _Property_Seq_ is the same as in the [attMAPIProps](attmapiprops.
   > [!TIP]
   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
   
-  
-## test list nest alert2
+## test list nest alert 0 new line
 - xxxx
 - 2xxxxx
 - 3xxxx
+  > [!TIP]
+  > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
+  
+## test list nest alert 2 new line 
+- xxxx
+- xxxxx
+- xxxx
 
 
   > [!TIP]
   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
-  
+
+## test list nest alert 1 new line 4 space
+- xxxx
+- xxxxx
+- xxxx
+
+    > [!TIP]
+    > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
+
 ## test list nest alert 3
 
 Dieses Beispiel verwendet die folgenden: Webressourcen:
@@ -66,10 +80,8 @@ Dieses Beispiel verwendet die folgenden: Webressourcen:
     Eine JScript-Webressource, die eine wiederverwendbare Bibliothek enthält, um Aktionen mit dem REST-Endpunkt unter Verwendung von JQuery auszuführen.
     
 
-    > [!TIP]
-    > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter.</P>
-
-
+   > [!TIP]
+   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter.</P>
 
 
 > [!TIP]
