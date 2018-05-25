@@ -33,16 +33,16 @@ The format of  _Property_Seq_ is the same as in the [attMAPIProps](attmapiprops.
 
 ## test list nest alert 1 new line
 - xxxx
-- 2xxxxx
-- 3xxxx
+- xxxxx
+- xxxx
 
   > [!TIP]
   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
   
 ## test list nest alert 0 new line
 - xxxx
-- 2xxxxx
-- 3xxxx
+- xxxxx
+- xxxx
   > [!TIP]
   > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
   
@@ -91,6 +91,25 @@ Dieses Beispiel verwendet die folgenden: Webressourcen:
     
     > [!TIP]
     > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
+
+Dieses Beispiel verwendet die folgenden: Webressourcen:
+
+  -  **sample\_/JQueryRESTDataOperations.htm**   
+    Verwenden Sie diese HTML-Seite, um das Beispiel zu starten und den Status der Aktionen anzuzeigen. Die Seite ist der Konfigurationsseite für Lösung **JQuery REST Data Operations**.
+
+  - **sample\_/Scripts/jquery1.9.1.min.js**  
+    Die minimierte Version von jQuery, die in den Microsoft Visual Studio-Webanwendungsprojekten enthalten ist. Die Inhalte dieser Bibliothek sind hier nicht enthalten.
+
+  -  **sample\_/Scripts/JQueryRESTDataOperationsSample.js**   
+    Eine JScript-Webressource, die die Vorgänge ausführt. Diese Bibliothek ist von der SDK.JQuery.js-Bibliothek abhängig.
+
+  -  **sample\_/Scripts/SDK.JQuery.js**   
+    Eine JScript-Webressource, die eine wiederverwendbare Bibliothek enthält, um Aktionen mit dem REST-Endpunkt unter Verwendung von JQuery auszuführen.
+    
+
+    > [!TIP]
+    > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
+
 
 
 
