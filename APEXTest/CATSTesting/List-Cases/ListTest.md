@@ -82,9 +82,18 @@ Dieses Beispiel verwendet die folgenden: Webressourcen:
     > [!TIP]
     > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter.</P>
 
+Dieses Beispiel verwendet die folgenden: Webressourcen:
+  -  **sample\_/Scripts/JQueryRESTDataOperationsSample.js**   
+    Eine JScript-Webressource, die die Vorgänge ausführt. Diese Bibliothek ist von der SDK.JQuery.js-Bibliothek abhängig.
 
-> [!TIP]
-> <P>Das Anpassungspräfix “sample_” wird nicht im Code verwendet. Diese Beispiele gehen mithilfe des Anpassungspräfixes von einem beliebigen Herausgeber. Allerdings muss der relative Pfad des simulierten Scripts-Ordners im Namen der Webressourcen berücksichtigt werden.</P>
+  -  **sample\_/Scripts/SDK.JQuery.js**   
+    Eine JScript-Webressource, die eine wiederverwendbare Bibliothek enthält, um Aktionen mit dem REST-Endpunkt unter Verwendung von JQuery auszuführen.
+    
+    > [!TIP]
+    > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
+
+
+
 
 
 
