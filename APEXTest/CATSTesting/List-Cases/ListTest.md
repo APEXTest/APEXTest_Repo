@@ -107,6 +107,7 @@ Dieses Beispiel verwendet die folgenden: Webressourcen:
   -  **sample\_/Scripts/SDK.JQuery.js**   
     Eine JScript-Webressource, die eine wiederverwendbare Bibliothek enthält, um Aktionen mit dem REST-Endpunkt unter Verwendung von JQuery auszuführen.
     
+    
     > [!TIP]
     > <P>Eine ähnliche Bibliothek, die nicht von JQuery abhängig ist, finden Sie unter <A href="gg334427(v=crm.7).md">Beispiel: Erstellen, abrufen, aktualisieren und löschen mithilfe des OData-Endpunkts mit JavaScript</A>.</P>
 
