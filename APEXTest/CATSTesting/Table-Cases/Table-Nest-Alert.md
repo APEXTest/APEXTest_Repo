@@ -1,5 +1,5 @@
 # Table Cases: Table and Alerts Nested
-## XML Table nest alert
+## HTML Table nest alert
 
 <table>
 <thead>
@@ -32,3 +32,15 @@
 </tr>
 </tbody>
 </table>
+
+## MD Table nest alert
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | > [!NOTE] Sample text  |
+| Content Cell  | Content Cell  |
+
+
+> [!NOTE] Sample text
+
+> [!NOTE]
+> Sample text
