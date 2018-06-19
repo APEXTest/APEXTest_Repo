@@ -28,6 +28,8 @@ Git URL test
 [Git URL test](https://github.com/APEXTest/APEXTest_Repo/edit/master/APEXTest/CATSTesting/Link-Cases/Link_bugfix.md)
 [Git-mainpage](https://github.com)
 
+## Bug 1274959
+[Shell.azure](https://shell.azure.com/)
 
 ## test1
 dsdsdfsdfsdgdsdbsdffd
