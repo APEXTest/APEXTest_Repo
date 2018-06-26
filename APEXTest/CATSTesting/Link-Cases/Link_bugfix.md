@@ -9,11 +9,11 @@
 [dsiebold@earthlink.net](mailto:dsiebold@earthlink.net)
 
 ## Example link test
-[service](http://service/test)
+[server](http://server/test)
 
-[service1](http://www.google.com/service/test)
+[server1](http://www.google.com/server/test)
 
-[service2](http://www.google.com/servicetest)
+[server2](http://www.google.com/servertest)
 
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
