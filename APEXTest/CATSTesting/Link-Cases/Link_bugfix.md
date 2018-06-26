@@ -8,6 +8,13 @@
 ## MailTO link
 [dsiebold@earthlink.net](mailto:dsiebold@earthlink.net)
 
+## Example link test
+[service](http://service/test)
+
+[service1](http://www.google.com/service/test)
+
+[service2](http://www.google.com/servicetest)
+
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
 
