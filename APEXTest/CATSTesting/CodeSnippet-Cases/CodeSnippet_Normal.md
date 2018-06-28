@@ -1,5 +1,10 @@
 # Normal code snippet
 
+## Azurecli Code sample
+```azurecli-interactive
+New-CsVoiceRoute -Identity <RouteId> -NumberPattern <String> -PstnUsages @{add="<UsageString>"} -PstnGatewayList @{add="<TrunkSimpleName>"}
+``` 
+
 ## Write code directly
   ```c#
   using system
