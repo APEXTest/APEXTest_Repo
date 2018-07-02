@@ -15,6 +15,8 @@
 
 [server2](http://www.google.com/servertest)
 
+[server3](http://servertest123/test)
+
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
 
