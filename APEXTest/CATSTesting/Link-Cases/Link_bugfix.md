@@ -9,7 +9,7 @@
 [dsiebold@earthlink.net](mailto:dsiebold@earthlink.net)
 
 ## Example link test
-[server](http://server/test)
+[server](http://server/path)
 
 [server1](http://www.google.com/server/test)
 
@@ -18,6 +18,8 @@
 [server3](http://servertest123/test)
 
 http://server/test
+
+http://Phone360
 
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
