@@ -17,6 +17,8 @@
 
 [server3](http://servertest123/test)
 
+http://server/test
+
 ## bug 1169368
 [shell.azure.com](https://shell.azure.com/bash)
 
