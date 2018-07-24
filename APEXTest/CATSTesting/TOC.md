@@ -31,6 +31,7 @@
 #### [Link-bugfix](Link-Cases/Link_bugfix.md)
 #### [Link-exampleLink](Link-Cases/example_link_Test.md)
 #### [Broken-ExternalLink](Link-Cases/BrokenExternalLinkTest.md)
+#### [Bug fixing](Link-Cases/BugFixing.md)
 
 ### [List](List-Cases/Index.md)
 #### [List-common](List-Cases/List.md)
