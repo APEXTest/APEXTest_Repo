@@ -34,29 +34,29 @@ ms.suite: ems
 > ![The image displayed normal with Alt text](./../Reference-Files/Images/BlackAndWhite[Cow]-512.png "This is title")
 
 ### Image Alt text length
-  ![Alt text is 25 characters](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)  
+  ![Alt text is 25 characters](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)  
 
-  ![Alt text that is 29 character](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)  
+  ![Alt text that is 29 character](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)  
 
-  ![Alt text that is 30 characters](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)  
+  ![Alt text that is 30 characters](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)  
 
-  ![Indicate which image has an Alt text that lenth equal to 70 characters](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)  
+  ![Indicate which image has an Alt text that lenth equal to 70 characters](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)  
 
-  ![Indicate that image has an Alt text that is more than 70 characters(71)](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)  
+  ![Indicate that image has an Alt text that is more than 70 characters(71)](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)  
 
-  ![Indicate which image has an Alt text that is more than 70 characters, including spaces](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)  
-  
+  ![Indicate which image has an Alt text that is more than 70 characters, including spaces](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)  
+
     
 ### The image displayed normal with reference insert
   ![Flower - with reference insert][Flower]
   [Flower]: ./../Reference-Files/Images/flower.jpg
   
 ### invalid insert style
-![Flower - invalid insert style][./../Reference-Files/Images/Sun Shining On Flower-Image.jpg]
+![Flower - invalid insert style][./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg]
 
 
 ### invalid image source
-![Flower - invalid image source](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)
+![Flower - invalid image source](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)
 
 ### Empty image source
 ![Flower - Empty image source]()
@@ -115,11 +115,11 @@ ms.suite: ems
 1. aaa
 	* bbb
 	* eee
-	*  ![The flower image lists in last](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)
+	*  ![The flower image lists in last](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)
     
     
 ## image in list
-1.  ![The flower image lists in first](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)
+1.  ![The flower image lists in first](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)
 2. aaaa
 4. cccc
 
@@ -133,7 +133,7 @@ ms.suite: ems
 > <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "1860" height ="1245"/>
 
 ## Image as link text 
-[![Image as link text - Internallink](./../Reference-Files/Images/Sun Shining On Flower-Image.jpg)](./../Reference-Files/Images/gif.gif)
+[![Image as link text - Internallink](./../Reference-Files/Images/Sun-Shining-On-Flower-Image.jpg)](./../Reference-Files/Images/gif.gif)
 
 [![Image as link text - Link a MD](./../Reference-Files/Images/bmp.bmp)](./../Image-Cases/index.md)
 
