@@ -85,6 +85,7 @@
 #### [SEORules-H1 heading duplicated values](SEORules-Cases/SEORules26.md)
 #### [SEORules-Missing H2 heading](SEORules-Cases/SEORules27.md)
 #### [SEORules-Only one H2 heading](SEORules-Cases/SEORules28.md)
+#### [SEORules-Images](SEORules-Cases/Image_Common.md)
 
 ### [Table](Table-Cases/Index.md)
 #### [Empty Cell](Table-Cases/Empty-Cells.md)
