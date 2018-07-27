@@ -76,7 +76,7 @@ ms.suite: ems
 | ![File name is tinypngmagent-image](./../Reference-Files/Images/tinypngmagent-image.jpg) | Image file name _equals_ to 19 |
 | ![File name is tinypng-magent-image](./../Reference-Files/Images/tinypng-magent-image.jpg) | Image file name equals to 20 |
 | ![File name is tinypng-magent-images](./../Reference-Files/Images/tinypng-magent-images.jpg) | Image file name equals to 21 |
-| ![File name is tinypng-magent-image](./../Reference-Files/Images/tinypng-magent-image.jpg) | ![~`1!2@3#4$5%6^7&_-+=,.';](./../Reference-Files/Images/~`1!2@3#4$5%6^7&_-+=,.';.jpg) |
+| ![File name is tinypng-magent-image](./../Reference-Files/Images/tinypng-magent-image.jpg) | ![~`1!2@3#4$5%6^7&_-+=,.';](./../Reference-Files/Images/coloring-pages-cute-.jpg) |
 
 ## Image in alert
 > [!NOTE] 
