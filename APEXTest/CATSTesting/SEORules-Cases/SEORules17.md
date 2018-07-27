@@ -1,8 +1,8 @@
 ---
 # required metadata
 
-title: This topic provides description length with 75 - SEO Rules | Microsoft Docs
-description:    Free training for Developers, IT Pros, Data Scientists, and students.   
+title: This topic provides description length with 75 - SEO Rules
+description: MVA - Free training for Developers, IT Pros, Data Scientists, and students.
 
 # optional metadata
 
@@ -19,8 +19,8 @@ ms.suite: ems
 # SEO Rules on Description metadata - Description Length is 75
 
 Page has one and only one "description" metadata.  
-* The description is "   Free training for Developers, IT Pros, Data Scientists, and students.   "  
-+ The length is 75 with 3 spaces in head and 3 spaces in end.
+* The description is "MVA - Free training for Developers, IT Pros, Data Scientists, and students."  
++ The length is 75.
 
 > [!NOTE] 
 > Pass - Description contains 75-145 characters, including spaces.

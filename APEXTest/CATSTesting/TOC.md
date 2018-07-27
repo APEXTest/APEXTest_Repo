@@ -76,7 +76,7 @@
 #### [SEORules-Description Length is 75](SEORules-Cases/SEORules17.md)
 #### [SEORules-Description Length is 145](SEORules-Cases/SEORules18.md)
 #### [SEORules-Description Length more](SEORules-Cases/SEORules19.md)
-#### [SEORules-Description Length Pass(SEORules-Cases/SEORules20.md)
+#### [SEORules-Description Length Pass](SEORules-Cases/SEORules20.md)
 #### [SEORules-Description duplicated values](SEORules-Cases/SEORules21.md)
 #### [SEORules-Missing H1 heading](SEORules-Cases/SEORules22.md)
 #### [SEORules-Extra H1 heading](SEORules-Cases/SEORules23.md)
