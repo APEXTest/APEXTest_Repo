@@ -1,3 +1,3 @@
 # Common Index 
 
-This is test files.
+This is common page for test files.
