@@ -1,45 +1,44 @@
-http://13.72.77.9:3300
+https://developer.microsoft.com/graph/docs/api-reference/v1.0/api/user_post_users
 
-http://169.254.169.254
+https://analysis.windows.net/powerbi/api.”
 
-http://169.254.169.254/metadata/identity/oauth2/token
+https://atlas.microsoft.com/search/address/json?
 
-http://172.31.194.61
+https://atlas.microsoft.com/search/address/reverse/crossstreet/json?
 
-http://192.168.0.1/start
+https://atlas.microsoft.com/search/address/reverse/json?
 
-http://40.121.222.19
+https://atlas.microsoft.com/search/fuzzy/json?
 
-http://40.121.222.19/
+https://cawablobgrs.blob.core.windows.net/
 
-http://40.121.222.19:8080/video/test.htm
+https://database.windows.net/
 
-http://40.121.222.19:8081/images/test.htm
+https://enterpriseregistration.windows.net/
 
-http://52.168.55.24/
+https://gallery.azure.com/
 
-http://52.168.55.24:8080/images/
+https://gallery.cloudapi.de/
 
-http://52.168.55.24:8081/video/
+https://graph.chinacloudapi.cn/
 
-http://52.170.203.149/
-http://fqdn/
+https://graph.cloudapi.de/
 
-http://ipaddress/
+https://kailani11.one.microsoft.com/
 
-http://proxyfqdn/
+https://kailani7.one.microsoft.com/
 
-http://proxyipaddress/
+https://manage.core.cloudapi.de/
 
-http://publicIpAddress/MyApp
+https://management.chinacloudapi.cn/
 
-http://publicIpAddress:9000/do_work
+https://management.database.chinacloudapi.cn/
 
-http://publiciporfqdn:8080/hello
+https://management.database.windows.net/
 
-http://server/path
+https://storage.azure.com/
 
-[http://webserver/](http://webserver/)
+https://services.azureml-test.net/
 
-https://outlook.com/contoso.com
+
 
