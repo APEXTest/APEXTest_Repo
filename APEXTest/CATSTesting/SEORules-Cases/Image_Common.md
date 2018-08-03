@@ -86,7 +86,7 @@ ms.suite: ems
 
 ## Image in alert no alt message
 > [!WARNING] 
-> ![](./../Reference-Files/Images/~`1!2@3#4$5%6^7&_-+=,.';.jpg)
+> ![](./../Reference-Files/Images/coloring-pages-cute-.jpg)
 >  Text after Image
 
 ## image in alert with no title
