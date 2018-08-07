@@ -78,14 +78,14 @@ Top asks from our customers in the October ’18 release.
    across CDS instances, as well as customize existing templates to adapt them
    to their needs and repackage them as new templates for reuse.
 
-   ![The data integration dashboard](./../Reference-Files/Images/Temp to choose-.png "Templates to choose from")
-   <!-- picture -->
-
+   ![I am flower](./../Reference-Files/Images/Temp to -choose.png "Templates to choose from")
 
    Consultants can customize templates, as well as repackage and reuse them
    across CDS instances without having to repeat the process. Collaboration and
    distribution in larger enterprise organizations are supported through sharing
    templates with specific set users or groups.
+   
+   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-1.png "Browsing and pulling templates from the marketplace 1")
 
    With the help of Common Data Service for Apps role-based access, business
    users and admins will be able to assign fine-grained permissions that allow users
@@ -95,7 +95,7 @@ Top asks from our customers in the October ’18 release.
    projects and who can read/use. Multiple users can share projects and
    templates with permissions defined for their role.
 
-   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-1.png "Browsing and pulling templates from the marketplace")
+   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-2.png "Browsing and pulling templates from the marketplace 2")
 
    Templates will also become easily discoverable in a central marketplace.
    Customers will be able to create a data integration project by easily browsing the
@@ -104,15 +104,9 @@ Top asks from our customers in the October ’18 release.
    Templates could also be shared across tenants with the ability to control
    viewership.
 
-   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-1.png "Browsing and pulling templates from the marketplace")
+   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-1.png "Browsing and pulling templates from the marketplace 3")
 
    > ![The next step in YOUR DIGITAL TRANSFORMATION](./../Reference-Files/Images/data-integration-1.png "Data Integration platform")
-
-## Image in alert
-> [!NOTE] 
->  Text before Image 
-> ![I am flower](./../Reference-Files/Images/cartoon&baby~animals(clipart)30.jpg "This is title")
->  Text after Image
 
 We’ve done this work to help you—our partners, customers, and users—drive the digital transformation of your business on your terms.
 
