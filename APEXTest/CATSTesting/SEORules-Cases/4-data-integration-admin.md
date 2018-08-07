@@ -77,8 +77,8 @@ Top asks from our customers in the October ’18 release.
    underlying platform to simply build their own new templates and share them
    across CDS instances, as well as customize existing templates to adapt them
    to their needs and repackage them as new templates for reuse.
-
-   ![I am flower](./../Reference-Files/Images/Temp to -choose.png "Templates to choose from")
+   
+   ![I am flower](./../Reference-Files/Images/Temp-to--choose.png "Templates to choose from")
 
    Consultants can customize templates, as well as repackage and reuse them
    across CDS instances without having to repeat the process. Collaboration and
