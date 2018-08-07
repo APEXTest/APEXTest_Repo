@@ -78,7 +78,7 @@ Top asks from our customers in the October ’18 release.
    across CDS instances, as well as customize existing templates to adapt them
    to their needs and repackage them as new templates for reuse.
 
-   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-1.png "Templates to choose from")
+   ![The data integration dashboard](./../Reference-Files/Images/Temp to choose-.png "Templates to choose from")
    <!-- picture -->
 
 
@@ -95,6 +95,8 @@ Top asks from our customers in the October ’18 release.
    projects and who can read/use. Multiple users can share projects and
    templates with permissions defined for their role.
 
+   ![Template to choose from Browsing and pulling template from marketplace](./../Reference-Files/Images/6-1.png "Browsing and pulling templates from the marketplace")
+
    Templates will also become easily discoverable in a central marketplace.
    Customers will be able to create a data integration project by easily browsing the
    marketplace and obtain the latest templates. Additionally, customers and
@@ -106,6 +108,11 @@ Top asks from our customers in the October ’18 release.
 
    > ![The next step in YOUR DIGITAL TRANSFORMATION](./../Reference-Files/Images/data-integration-1.png "Data Integration platform")
 
+## Image in alert
+> [!NOTE] 
+>  Text before Image 
+> ![I am flower](./../Reference-Files/Images/cartoon&baby~animals(clipart)30.jpg "This is title")
+>  Text after Image
 
 We’ve done this work to help you—our partners, customers, and users—drive the digital transformation of your business on your terms.
 
