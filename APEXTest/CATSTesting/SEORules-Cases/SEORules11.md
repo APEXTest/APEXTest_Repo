@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Extra title metadata is provided - SEO Rules | Microsoft Docs
+title: Extra title metadata is provided - SEO Rules
 description: This topic provides test cases in CATS to validate content with SEO rules - Title duplicated values
 
 # optional metadata
@@ -19,7 +19,7 @@ ms.suite: ems
 # SEO Rules on Title metadata - Title duplicated values
 
 Page has one and only one "title" metadata.  
-+ The title is "Extra title metadata is provided - SEO Rules | Microsoft Docs"  
++ The title is "Extra title metadata is provided - SEO Rules"  
 + The length is 45.
 
 > [!WARNING] 

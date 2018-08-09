@@ -2,7 +2,7 @@
 # required metadata
 
 title: This topic provides extra title metadata - SEO Rules | Microsoft Docs
-title: Extra title metadata is provided- SEO Rules | Microsoft Docs
+title: Extra title metadata is provided - SEO Rules 
 description: This topic provides test cases in CATS to validate content with SEO rules - Extra Title
 
 # optional metadata
@@ -21,7 +21,7 @@ ms.suite: ems
 
 Page with extra "title" on metadata.  
 + One is "This topic provides extra title metadata - SEO Rules | Microsoft Docs"  
-+ Another one is "Extra title metadata is provided- SEO Rules | Microsoft Docs"
++ Another one is "Extra title metadata is provided - SEO Rules "
 
 ## Missing/Extra Title
 Any article should contain one and only one Title metadata.
