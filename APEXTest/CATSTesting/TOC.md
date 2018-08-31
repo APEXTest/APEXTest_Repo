@@ -32,6 +32,7 @@
 #### [Link-exampleLink](Link-Cases/example_link_Test.md)
 #### [Broken-ExternalLink](Link-Cases/BrokenExternalLinkTest.md)
 #### [Bug fixing](Link-Cases/BugFixing.md)
+#### [Https-Checking](Link-Cases/HttpsChecking.md)
 
 ### [List](List-Cases/Index.md)
 #### [List-common](List-Cases/List.md)
