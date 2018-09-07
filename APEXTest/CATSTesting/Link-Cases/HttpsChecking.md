@@ -11,3 +11,17 @@
 [Hppts link](https://www.asp.net/get-started/websites)
 
 [Http example link](http://yoursite/server.js/debug)
+
+[aka.ms - fail](http://aka.ms/the-mom)
+
+[aka.ms - pass](https://aka.ms/apexcats)
+
+[aka.ms - fail](http://www.aka.ms/apexcats)
+
+[https microsoft site - pass](https://msdn.microsoft.com/zh-cn/library/jj134930(v=crm.7))
+
+[Http microsoft.com - pass](http://msdn.microsoft.com/zh-cn/library/jj134930(v=crm.7))
+
+[http VS -fail](http://www.visualstudio.com/zh-cn/)
+
+
