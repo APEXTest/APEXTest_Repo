@@ -20,7 +20,7 @@
 
 [https microsoft site - pass](https://msdn.microsoft.com/zh-cn/library/jj134930(v=crm.7))
 
-[Http microsoft.com - pass](http://msdn.microsoft.com/zh-cn/library/jj134930(v=crm.7))
+[Http microsoft.com - fail](http://msdn.microsoft.com/zh-cn/library/jj134930(v=crm.7))
 
 [http VS -fail](http://www.visualstudio.com/zh-cn/)
 
