@@ -25,3 +25,10 @@
 [http VS -fail](http://www.visualstudio.com/zh-cn/)
 
 
+## External link Bug fix
+
+[https://microsoft.sharepoint.com/Pages/Getting-started.aspx](https://microsoft.sharepoint.com/Pages/Getting-started.aspx)
+
+[http://www.uie.com/articles/faceted_search/](http://www.uie.com/articles/faceted_search/)
+
+[https://sharepoint/](https://sharepoint/)
