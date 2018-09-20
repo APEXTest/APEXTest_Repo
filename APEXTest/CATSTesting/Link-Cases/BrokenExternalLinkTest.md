@@ -2,7 +2,7 @@
 
 ## Broken External Link list
 
-<br>	[Link works_ https://account.activedirectory.windowsazure.com/r#/profile]( https://account.activedirectory.windowsazure.com/r#/profile)
+<br>	[Link works_ https://account.activedirectory.windowsazure.com/r#/profile](https://account.activedirectory.windowsazure.com/r#/profile)
 <br>	[Link works_http://blogs.technet.microsoft.com/applicationproxyblog/2015/09/03/troubleshooting-tool-to-validate-connector-networking-prerequisites](http://blogs.technet.microsoft.com/applicationproxyblog/2015/09/03/troubleshooting-tool-to-validate-connector-networking-prerequisites)
 <br>	[Link works_http://cloudmonix.com/features/azure-management/](http://cloudmonix.com/features/azure-management/)
 <br>	[Link works_http://go.microsoft.com/fwlink/?LinkId=391339](http://go.microsoft.com/fwlink/?LinkId=391339)
@@ -301,8 +301,8 @@
 <br>	[Misc_https://portal.local.azurestack.external/TokenAuthorize](https://portal.local.azurestack.external/TokenAuthorize)
 <br>	[Misc_https://shell.azure.com/powershell](https://shell.azure.com/powershell)
 <br>	[Misc_https://support.one-team.com/hc/requests/new](https://support.one-team.com/hc/requests/new)
-<br>	[Fictitious_ https://rest.media.azure.net]( https://rest.media.azure.net)
-<br>	[Fictitious_[https://signalrtestwebapp22665120.azurewebsites.net/home]([https://signalrtestwebapp22665120.azurewebsites.net/home)
+<br>	[Fictitious_ https://rest.media.azure.net](https://rest.media.azure.net)
+<br>	[Fictitious_[https://signalrtestwebapp22665120.azurewebsites.net/home](https://signalrtestwebapp22665120.azurewebsites.net/home)
 <br>	[Fictitious_azure/notification-hubs/notification-hubs-windows-store-dotnet-get-started-wns-push-notification](azure/notification-hubs/notification-hubs-windows-store-dotnet-get-started-wns-push-notification)
 <br>	[Fictitious_http://1.2.3.4/](http://1.2.3.4/)
 <br>	[Fictitious_http://13.72.77.9:3300](http://13.72.77.9:3300)
