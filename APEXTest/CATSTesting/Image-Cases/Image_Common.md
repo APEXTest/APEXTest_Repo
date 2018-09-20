@@ -28,7 +28,7 @@ ms.suite: ems
 
 ### The image displayed normal with Alt text
 
-> ![I am flower](./../Reference-Files/Images/flower.jpg "This is title")
+> ![Open your test settings file, select the Role tab](./../Reference-Files/Images/flower.jpg "Open your test settings file, select the Role tab")
 
 ### The image displayed normal with no Alt text
   ![](./../Reference-Files/Images/flower.jpg)
