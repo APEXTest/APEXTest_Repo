@@ -33,6 +33,7 @@
 #### [Broken-ExternalLink](Link-Cases/BrokenExternalLinkTest.md)
 #### [Bug fixing](Link-Cases/BugFixing.md)
 #### [Https-Checking](Link-Cases/HttpsChecking.md)
+#### [CookieTest](Link-Cases/CookieTest.md)
 
 ### [List](List-Cases/Index.md)
 #### [List-common](List-Cases/List.md)
