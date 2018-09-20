@@ -217,7 +217,7 @@
 <br>	[General-resolved_http://www.coretekservices.com/](http://www.coretekservices.com/)
 <br>	[General-resolved_http://www.visualstudio.com/get-started/debug-your-app-vs.aspx](http://www.visualstudio.com/get-started/debug-your-app-vs.aspx)
 <br>	[General-resolved_https://account.windowsazure.com/Store](https://account.windowsazure.com/Store)
-<br>	[General-resolved_https://aka.ms/cosmosdbfeedback?subject=Cosmos DB More Throughput Request](https://aka.ms/cosmosdbfeedback?subject=Cosmos DB More Throughput Request)
+<br>	[General-resolved_https://aka.ms/cosmosdbfeedback?subject=Cosmos DB More Throughput Request](https://aka.ms/cosmosdbfeedback?subject=Cosmos%20DB%20More%20Throughput%20Request)
 <br>	[General-resolved_https://azure.microsoft.com/documentation/articles/guidance-web-apps-basic/](https://azure.microsoft.com/documentation/articles/guidance-web-apps-basic/)
 <br>	[General-resolved_https://backup.autotask.net/help/Content/0_HOME/Support_for_End_Clients.htm](https://backup.autotask.net/help/Content/0_HOME/Support_for_End_Clients.htm)
 <br>	[General-resolved_https://blogs.msdn.microsoft.com/waws/2016/01/05/azure-web-apps-error-403-this-web-app-is-stopped/](https://blogs.msdn.microsoft.com/waws/2016/01/05/azure-web-apps-error-403-this-web-app-is-stopped/)
