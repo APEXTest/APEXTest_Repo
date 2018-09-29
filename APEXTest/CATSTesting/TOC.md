@@ -24,7 +24,7 @@
 #### [Image-Common](Image-Cases/Image_Common.md)
 
 ### [Link](Link-Cases/Index.md)
-#### [Link-AlertNested](Link-Cases/examplelinkBackup.md)
+#### [Link-ExamplelinkBackup20180929](Link-Cases/examplelinkBackup.md)
 #### [Link-AlertNested](Link-Cases/Link_AlertNested.md)
 #### [Link-Common](Link-Cases/Link_Common.md)
 #### [Link-ListNested](Link-Cases/Link_ListNested.md)
@@ -32,6 +32,7 @@
 #### [Link-bugfix](Link-Cases/Link_bugfix.md)
 #### [Link-exampleLink](Link-Cases/example_link_Test.md)
 #### [Broken-ExternalLink](Link-Cases/BrokenExternalLinkTest.md)
+#### [AzureSiteLink](Link-Cases/AzureSiteLinks.md)
 #### [Bug fixing](Link-Cases/BugFixing.md)
 #### [Https-Checking](Link-Cases/HttpsChecking.md)
 #### [CookieTest](Link-Cases/CookieTest.md)
