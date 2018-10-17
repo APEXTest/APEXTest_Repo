@@ -22,4 +22,12 @@ http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-T
 
 http://azure.microsoft.com/training/learning-paths/azure-ai-developer
 
+https://aka.ms/AnomalyFinderPrivatePreview
 
+https://social.technet.microsoft.com/wiki/contents/articles/3808.security-considerations-for-infrastructure-as-a-service-iaas.aspx
+
+http://www.uoldiveo.com.br/solucoes/cloud.html#rmcl
+
+https://www.suse.com/c/multi-nic-cloud-netconfig-ec2-azure/
+
+https://aka.ms/ams-v3-java-sdk
