@@ -8,3 +8,13 @@
 
 ## External link
 To be add
+
+
+## Sample Test
+[Gateway Redirect1](https://review.docs.microsoft.com/en-us/cli/azure/network/application-gateway?branch=master&view=azure-cli-latest#az-network_application_gateway_redirect_config_create)<br/>
+
+[Gateway Redirect2](https://review.docs.microsoft.com/en-us/cli/azure/network/application-gateway?branch=master&view=azure-cli-latest#az-network-application-gateway-redirect-config-create)<br/>
+
+[Gateway Redirect3](https://review.docs.microsoft.com/en-us/cli/azure/network/application-gateway/redirect-config?branch=master&view=azure-cli-latest#az-network_application_gateway_redirect_config_create)<br/>
+
+[Gateway Redirect4](https://review.docs.microsoft.com/en-us/cli/azure/network/application-gateway/redirect-config?branch=master&view=azure-cli-latest#az-network-application-gateway-redirect-config-create)<br/>
