@@ -111,6 +111,8 @@
 ##### [Dup TOC 2](TOC-Cases/BrokenTOC-dupTest.md)
 #### [Dup TOC 3](TOC-Cases/BrokenTOC-dupTest.md)
 
+### [LinkTest](Link/link1.md)
+
 ### [Playground](Playground/Index.md)
 #### [Index](Playground/Index.md)
 
