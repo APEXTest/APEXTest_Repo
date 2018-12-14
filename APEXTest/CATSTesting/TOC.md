@@ -6,6 +6,7 @@
 #### [Alert-Empty](Alert-cases/Alert_Empty.md)
 #### [Alert-Common](Alert-cases/Alert_Common.md)
 #### [Alert-test](Alert-cases/Alert_Test.md)
+#### [Alert-compare-test](Alert-cases/Alert_for_compare.md)
 
 ### [Code](CodeSnippet-Cases/Index.md)
 #### [CodeSnippet-Common](CodeSnippet-Cases/CodeSnippet_Common.md)
