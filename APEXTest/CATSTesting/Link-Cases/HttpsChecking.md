@@ -2,6 +2,26 @@
 
 ## Http link redirect to https
 
+http://channel9.msdn.com/Blogs/Open/Load-balancing-highly-available-Linux-services-on-Windows-Azure-OpenLDAP-and-MySQL
+
+http://msdn2.microsoft.com/library/ms227556.aspx
+
+http://msdnstage-ppe.redmond.corp.microsoft.com/en-US/library/ps460884(MSDN.10).aspx
+
+http://stories.visualstudio.com/bing-continuous-delivery/
+
+http://microsoft.com/
+
+http://resources.azure.com/
+
+http://status.azure.com/
+
+http://www.azure.com/develop/iot
+
+http://edge.technet.com/
+
+http://blogs.technet.com/b/heyscriptingguy/
+
 [Redirect to Https](http://www.asp.net/get-started/websites)
 
 [Not redirect to Https but support Https](http://www.unicode.org/versions/Unicode8.0.0/) 
