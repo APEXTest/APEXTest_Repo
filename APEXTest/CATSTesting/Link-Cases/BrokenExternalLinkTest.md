@@ -1,5 +1,5 @@
 # External link verify
 ## Broken external link false positive
 
-https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/vidyard-tutorial
-<br> https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-java-application
+https://www.coreservlets.com/Apache-Tomcat-Tutorial/tomcat-7-with-eclipse.html
+<br> https://knowledge.vidyard.com/saml-single-sign-on-authentication/saml-based-single-sign-on-sso-in-vidyard
