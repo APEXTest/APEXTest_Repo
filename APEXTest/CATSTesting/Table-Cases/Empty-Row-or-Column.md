@@ -13,6 +13,11 @@
 |    The first row is empty   | Display the help window.|
 | Close     | _Closes_ a window     |
 
+### The first and second row are empty
+|  | |
+| ------------- | ----------- |
+| ------------- | ----------- |
+| Close     | _Closes_ a window     |
 
 ### The second row is empty
 | Table header 1 |Table header 2 |
