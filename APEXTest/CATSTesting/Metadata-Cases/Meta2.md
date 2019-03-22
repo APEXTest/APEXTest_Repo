@@ -8,7 +8,7 @@ author: rkarlin
 ms.author: rkarlin
 manager: mbaldwin
 ms.date: 11/6/2016
-ms.topic: article
+ms.topic: business-process
 ms.prod: article
 ms.service: cloud-app-security
 ms.technology:
