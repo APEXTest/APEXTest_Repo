@@ -9,7 +9,7 @@ ms.author: ruixiang
 manager: mbaldwin
 ms.date: 01/15/2018
 ms.topic: best-practice
-ms.prod: Archived
+ms.prod: .net1.1
 ms.service: 
 #robots: NOINDEX,NOFOLLOW
 ms.technology: cloud-app-security
