@@ -9,7 +9,7 @@ ms.author: rkarlin
 manager: mbaldwin
 ms.date: 11/6/2016
 ms.topic: business-process
-ms.prod: article
+ms.prod: .net
 ms.service: cloud-app-security
 ms.technology:
 ROBOTS: NOINDEX,NOFOLLOW
