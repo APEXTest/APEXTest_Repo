@@ -8,7 +8,7 @@ ms.service: ""
 ms.technology: article
 keywords: list&meta
 author: rkarlin
-ms.author: rkarlin
+ms.author: pnp
 manager: mbaldwin
 ms.date: 11/06/2016
 ms.topic: article
