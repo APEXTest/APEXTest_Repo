@@ -3,7 +3,7 @@
 
 title: This topic provides a description of Anomaly detection policies | Microsoft Docs
 description: This topic provides a description of Anomaly detection policies and provides reference informati on about the building blocks of an anomaly detection policy.
-ms.prod: article
+ms.prod: .net
 ms.service: ""
 ms.technology: article
 keywords: list&meta
