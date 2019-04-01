@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: This topic provides a description of Anomaly detection policies | Microsoft Docs
+title: This topic provides a description of Anomaly detection policies
+titleSuffix: Microsoft Intune
 description: This topic provides a description of Anomaly detection policies and provides reference informati on about the building blocks of an anomaly detection policy.
 ms.prod: .net
 ms.service: ""
