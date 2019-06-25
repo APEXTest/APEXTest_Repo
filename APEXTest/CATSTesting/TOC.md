@@ -112,6 +112,8 @@
 ##### [Dup TOC 2](TOC-Cases/BrokenTOC-dupTest.md)
 #### [Dup TOC 3](TOC-Cases/BrokenTOC-dupTest.md)
 
+### [YML](YML-Test/Test1.yml)
+
 ### [LinkTest](Link/link1.md)
 
 ### [Playground](Playground/Index.md)
