@@ -5,7 +5,7 @@ metadata:
   title: Azure Kinect DK documentation | Microsoft Docs
   description:  Azure Kinect DK is a developer kit with advanced AI sensors that provide sophisticated computer vision and speech models.  Kinect contains a depth sensor, spatial microphone array with a video camera, and orientation sensor as an all in-one small device with multiple modes, options, and SDKs.
   ms.prod: kinect-dk
-  author: tesych
+  author: apextest
   ms.author: tesych
   ms.topic: landing-page
   ms.date: 06/04/2019  
@@ -28,7 +28,7 @@ sections:
           image:
             src: https://docs.microsoft.com/media/common/i_overview.svg
           title: What is Azure Kinect DK?
-          alt:
+          alt: What-is
         - href: hardware-specification.md
           html: <p>Review Azure Kinect DK Hardware Specification.</p>
           image:
