@@ -33,8 +33,9 @@ sections:
           html: <p>Review Azure Kinect DK Hardware Specification.</p>
           image:
             src: https://docs.microsoft.com/media/common/i_get-started.svg
+            alt: get-Started
           title: Azure Kinect DK Hardware Specification
-          alt:
+          
         - href: sensor-sdk-download.md
           html: <p>Follow Instructions to download Azure Kinect Sensor SDK.</p>
           image:
