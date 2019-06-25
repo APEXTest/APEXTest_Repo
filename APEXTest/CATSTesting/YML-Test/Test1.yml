@@ -34,12 +34,12 @@ sections:
           html: <p>Review Azure Kinect DK Hardware Specification.</p>
           image:
             src: https://docs.microsoft.com/media/common/i_get-started.svg
-            alt: get-Started
+            alt: I-am-alt-text
           title: Azure Kinect DK Hardware Specification
           
         - href: sensor-sdk-download.md
           html: <p>Follow Instructions to download Azure Kinect Sensor SDK.</p>
-          image:
+          image: I am alt text
             src: ./media/index/kinect-viewer.svg
           title: Download Sensor SDK
           alt:
@@ -48,7 +48,7 @@ sections:
           image:
             src: ./media/index/body-tracking.svg
           title: Download Body Tracking SDK
-          alt:
+          alt: I-am 
 - title: 5-Minute Quickstarts
   items:
   - type: paragraph
