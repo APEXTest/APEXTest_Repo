@@ -27,8 +27,9 @@ sections:
           html: <p>Learn about the Azure Kinect DK.</p>
           image:
             src: https://docs.microsoft.com/media/common/i_overview.svg
+            alt: I am alt text
           title: What is Azure Kinect DK?
-          alt: What-is
+          
         - href: hardware-specification.md
           html: <p>Review Azure Kinect DK Hardware Specification.</p>
           image:
