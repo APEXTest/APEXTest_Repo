@@ -41,14 +41,16 @@ sections:
           html: <p>Follow Instructions to download Azure Kinect Sensor SDK.</p>
           image: 
             src: ./media/index/kinect-viewer.svg
+            alt: I am alt text
           title: Download Sensor SDK
-          alt: I am alt text
+          
         - href: body-sdk-download.md
           html: <p>Follow Instructions to download Azure Kinect Body Tracking SDK.</p>
           image:
             src: ./media/index/body-tracking.svg
+            alt: Iam
           title: Download Body Tracking SDK
-          alt: Iam 
+           
 - title: 5-Minute Quickstarts
   items:
   - type: paragraph
