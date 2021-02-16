@@ -26,6 +26,11 @@
 |  Cell    |Cell |
 |      |    |
 
+### The first and second row are empty
+|  | |
+| ------------- | ----------- |
+|  | |
+| Close     | _Closes_ a window     |
 
 ## Empty Column
 ### The first column is empty
